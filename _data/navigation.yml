@@ -1,0 +1,16 @@
+# 상단에 표시되는 링크가 main이다.
+main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+
+   - title: "MeWithAI"
+     url: "https://mewithai.github.io/"
+   - title: "About"
+     url: /about/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
