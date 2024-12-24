@@ -47,7 +47,11 @@ tags:
 - Fiat Money: Currency that a government has declared to be legal tender, but is not backed by a physical commodity.
 - Satoshis: The smallest unit of Bitcoin, named after its creator, Satoshi Nakamoto.
 
-## 참고사항
+## 추가 
+
+- 로버트 기요사키: `부자 아빠 가난한 아빠 쓴 사람`
+
+
 
 - 원문의 길이 = 2,396 Characters
 
