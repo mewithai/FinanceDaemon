@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - GOLD
+    - NVDA
 tags:
-    - GOLD
+    - NVDA
 ---
 
 ---
@@ -22,11 +22,11 @@ tags:
 
 
 - 터키 주식 시장은 다양한 경제적 요인과 부문 성과에 의해 영향을 받으며 변동성을 겪고 있습니다.
-- 장 마감 시 BIST 100 지수가 상승했으며, 베식타스 축구 및 울커 비스쿠비와 같은 기업에서 눈에 띄는 상승이 있었고, 에믈락 콘트와 같은 일부 주식은 하락했습니다.
-- 전체 시장 심리는 조심스러운 상태를 유지하고 있으며, 하락하는 주식이 상승하는 주식보다 많아 향후 변동성이 있을 수 있음을 나타냅니다.
-- 투자자들은 경제 상황이 변화함에 따라 부문 성과를 면밀히 모니터링할 것을 권장합니다.
-- 주식의 혼합 성과는 시장이 국내외 경제 신호에 반응하고 있음을 나타냅니다.
-- 현재 터키 주식 시장은 광범위한 경제 동향과 투자자 심리를 반영하여 상승과 하락이 혼합된 상태입니다.
+- 장 마감 시 BIST 100 지수가 상승했으며, 베식타스 축구 및 기리심 전기와 같은 기업에서 눈에 띄는 상승이 있었습니다.
+- 전체 시장에서 하락하는 주식이 상승하는 주식보다 많아 투자자 심리가 혼재되어 있음을 나타냅니다.
+- 경제 상황이 변화함에 따라 투자자들은 주식 성과에 영향을 미칠 수 있는 조심스러운 태도를 유지할 가능성이 높습니다.
+- 주식의 혼합 성과는 시장의 불확실성을 나타내며, 일부 부문은 잘 수행되는 반면 다른 부문은 어려움을 겪고 있습니다.
+- 현재 터키 주식 시장은 약간의 상승세를 보이고 있지만, 광범위한 경제적 우려로 인해 투자자들은 조심스러운 태도를 유지하고 있습니다.
 
 ## Turkey Stock Market Update
 
@@ -34,17 +34,17 @@ tags:
 
 
 - The Turkish stock market has been experiencing fluctuations influenced by various economic factors and sector performances.
-- At the close, the BIST 100 index rose, with notable gains from companies like Besiktas Futbol and Ulker Biskuvi, while some stocks like Emlak Konut saw declines.
-- The overall market sentiment remains cautious, with more stocks declining than advancing, indicating potential volatility ahead.
-- Investors are advised to monitor sector performances closely as economic conditions evolve.
-- The mixed performance of stocks suggests a market that is reacting to both local and global economic signals.
-- The Turkish stock market is currently experiencing a mix of gains and losses, reflecting broader economic trends and investor sentiment.
+- At the close, the BIST 100 index rose, with notable gains from companies like Besiktas Futbol and Girisim Elektrik.
+- The overall market showed more declining stocks than advancing ones, indicating mixed investor sentiment.
+- Investors are likely to remain cautious as economic conditions evolve, impacting stock performance.
+- The mixed performance of stocks suggests uncertainty in the market, with some sectors performing well while others struggle.
+- The Turkish stock market is currently experiencing a slight upward trend, but investor caution remains due to broader economic concerns.
 
 ## Keywords
 
 - BIST 100: The main stock market index in Turkey, representing the performance of the top 100 companies.
 - USD/TRY: The exchange rate between the US Dollar and the Turkish Lira.
-- Crude Oil: A major commodity traded globally, with prices affecting various economic sectors.
+- Crude Oil: A major commodity traded in the market, influencing economic conditions.
 
 ## 참고사항
 
