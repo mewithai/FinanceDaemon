@@ -44,7 +44,7 @@ tags:
 
 - MOEX Russia Index: The main stock market index in Russia, reflecting the performance of the largest companies.
 - Transneft: A major Russian oil pipeline company, significant for its role in the energy sector.
-- Gazprom: The largest producer of natural gas in the world, heavily influencing the Russian economy.
+- Gazprom: The largest supplier of natural gas to Europe and a key player in the Russian economy.
 - RVI: Russian Volatility Index, measuring the implied volatility of MOEX Russia Index options.
 
 ## 참고사항
