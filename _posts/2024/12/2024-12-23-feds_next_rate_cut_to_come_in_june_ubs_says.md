@@ -1,7 +1,7 @@
 ---
 lang: kr
 title: "UBS 경제학자, 연준 금리 인하 예측"
-excerpt: UBS 경제학자들은 연준이 6월과 9월에 각각 25bp 금리를 인하할 것으로 예상하며, 최근 금리 인하로 총 100bp가 감소했습니다. 연준의 업데이트된 전망은 향후 금리 인하에 대해 더 신중한 접근을 나타내며, 2025년에는 50bp만 예상하고 있습니다.
+excerpt: UBS 경제학자들은 연준이 6월과 9월에 각각 25bp 금리를 인하할 것으로 예상하며, 최근 금리 인하로 총 100bp가 감소했습니다. 연준의 업데이트된 전망은 2025년에는 50bp만 예상되는 보다 신중한 접근을 나타냅니다.
 published: true
 toc: true
 toc_sticky: true
@@ -18,15 +18,15 @@ tags:
 
 ## UBS 경제학자, 연준 금리 인하 예측
 
-> UBS 경제학자들은 연준이 6월과 9월에 각각 25bp 금리를 인하할 것으로 예상하며, 최근 금리 인하로 총 100bp가 감소했습니다. 연준의 업데이트된 전망은 향후 금리 인하에 대해 더 신중한 접근을 나타내며, 2025년에는 50bp만 예상하고 있습니다.
+> UBS 경제학자들은 연준이 6월과 9월에 각각 25bp 금리를 인하할 것으로 예상하며, 최근 금리 인하로 총 100bp가 감소했습니다. 연준의 업데이트된 전망은 2025년에는 50bp만 예상되는 보다 신중한 접근을 나타냅니다.
 
 
-- 연준은 경제 상황에 따라 금리를 조정해 왔으며, 최근 금리 인하는 통화 정책의 변화를 반영합니다.
-- 연준의 최근 회의에서 25bp 금리 인하가 결정되었으며, 향후 금리에 대한 더 매파적인 전망이 나와 시장에 부정적인 반응을 일으켰습니다.
-- 연준의 매파적 입장은 달러를 강세로 만들고 주식 하락 및 채권 수익률 상승을 초래했으며, 달러 강세가 지속될 것으로 예상됩니다.
-- UBS는 6월과 9월에 추가 금리 인하를 예측하며, 노동 시장 상황이 악화될 경우 3월 금리 인하 가능성도 있습니다.
-- 연준의 신중한 접근은 인플레이션 관리와 경제 성장 지원 간의 균형을 반영하며, 정치적 요인도 시장 역학에 영향을 미칩니다.
-- 투자자들은 연준의 변화하는 입장과 추가 금리 조정 가능성, 그리고 달러 및 주식 시장에 미치는 영향을 인식해야 합니다.
+- 연준은 경제 상황에 따라 금리를 조정해 왔으며, 최근의 금리 인하는 통화 정책의 변화를 반영합니다.
+- 연준의 최근 회의에서 25bp 금리 인하가 결정되었으나, 업데이트된 점도표는 이전 예상보다 더 매파적인 입장을 나타냅니다.
+- 연준의 발표에 시장이 부정적으로 반응하여 주식이 하락하고, 채권 수익률이 상승하며, 달러가 강세를 보였습니다. 연준의 신중한 전망은 향후 금리 인하를 제한할 수 있습니다.
+- UBS는 6월과 9월에 추가 금리 인하를 예측하지만, 노동 시장 상황이 악화되면 3월 금리 인하가 재검토될 수 있다고 경고합니다.
+- 연준의 매파적 입장과 향후 금리 인하의 제한 가능성은 신중한 경제 전망을 시사하며, 이는 시장 역학에 영향을 미칠 수 있습니다.
+- UBS의 수정된 예측은 금리 인하에 대한 보다 신중한 접근을 반영하며, 이는 향후 달러와 시장 상황에 영향을 미칠 수 있습니다.
 
 ## UBS Economists Predict Federal Reserve Rate Cuts
 
@@ -34,19 +34,19 @@ tags:
 
 
 - The Federal Reserve has been adjusting interest rates in response to economic conditions, with recent cuts reflecting a shift in monetary policy.
-- The Fed's latest meeting resulted in a 25 basis point cut, with a more hawkish outlook for future cuts, leading to negative market reactions.
-- The Fed's hawkish stance has strengthened the dollar and led to declines in equities and increases in bond yields, with expectations of continued dollar strength.
-- UBS forecasts further rate cuts in June and September, with potential for a March cut if labor market conditions worsen.
-- The Fed's cautious approach reflects a balance between managing inflation and supporting economic growth, with political factors also influencing market dynamics.
-- Investors should be aware of the Fed's changing stance and the potential for further rate adjustments, as well as the implications for the dollar and equity markets.
+- The Fed's latest meeting resulted in a 25 basis point cut, but the updated dot plot indicates a more hawkish stance than previously expected.
+- Markets reacted negatively to the Fed's announcement, with equities falling, bond yields rising, and the dollar strengthening. The Fed's cautious outlook may limit future rate cuts.
+- UBS forecasts further rate cuts in June and September, but warns that a March cut could be reconsidered if labor market conditions worsen.
+- The Fed's hawkish stance and the potential for limited future cuts suggest a cautious economic outlook, which may impact market dynamics.
+- UBS's revised forecasts reflect a more cautious approach to interest rate cuts, with potential implications for the dollar and market conditions moving forward.
 
 ## Keywords
 
 - Interest Rate Cut: A reduction in the interest rate set by the central bank, aimed at stimulating economic activity.
-- Hawkish: A term used to describe a central bank's stance that favors higher interest rates to combat inflation.
-- Dot Plot: A graphical representation of the Federal Reserve's projections for future interest rates.
-- Equities: Stocks or shares that represent ownership in a company.
-- Bond Yields: The return an investor realizes on a bond, typically expressed as an annual percentage.
+- FOMC: Federal Open Market Committee, the branch of the Federal Reserve that determines the direction of monetary policy.
+- Dot Plot: A chart used by the Federal Reserve to indicate the future path of interest rates as projected by its members.
+- Hawkish: A term used to describe a monetary policy stance that is inclined towards higher interest rates.
+- Bearish: A market condition characterized by declining prices, often associated with pessimism.
 
 ## 참고사항
 
