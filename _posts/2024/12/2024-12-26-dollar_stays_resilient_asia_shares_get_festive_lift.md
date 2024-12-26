@@ -1,53 +1,54 @@
 ---
 lang: kr
-title: "아시아 주식, 연준 금리 전망 속 달러 상승에 따라 하락"
-excerpt: 아시아 주식은 연휴로 거래량이 줄어들면서 소폭 하락했으며, 달러는 미국 국채 수익률 상승과 함께 강세를 보였고, 투자자들은 2025년 연준의 금리 전망에 주목하고 있다.
+title: "월스트리트 주식, 국채 수익률 상승 속 하락"
+excerpt: 미국 주식은 트럼프 당선자의 정책에 대한 불확실성과 전형적인 연말 랠리에도 불구하고 국채 수익률이 4월 이후 최고 수준에 도달하면서 약간 하락했습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - DXY
+    - NVDA
 tags:
-    - DXY
+    - NVDA
 ---
 
 ---
 
-  원문: [Dollar stays resilient, Asia shares wobble](https://www.investing.com/news/economy-news/dollar-stays-resilient-asia-shares-get-festive-lift-3788659)
+  원문: [US stocks dip as "Santa Claus rally" stalls, 10-year Treasury yields touch 8-month high](https://www.investing.com/news/economy-news/dollar-stays-resilient-asia-shares-get-festive-lift-3788659)
 
-## 아시아 주식, 연준 금리 전망 속 달러 상승에 따라 하락
+## 월스트리트 주식, 국채 수익률 상승 속 하락
 
-> 아시아 주식은 연휴로 거래량이 줄어들면서 소폭 하락했으며, 달러는 미국 국채 수익률 상승과 함께 강세를 보였고, 투자자들은 2025년 연준의 금리 전망에 주목하고 있다.
-
-
-- 연말이 다가오면서 거래량이 줄어들고 있으며, 초점은 연준의 통화 정책 결정에 남아 있다.
-- 달러는 2년 만에 최고치에 근접하고 있으며, 미국 국채 수익률이 상승하여 원자재와 금 가격에 영향을 미치고 있다.
-- 연준의 최근 매파적 입장은 금리 인하에 대한 재평가를 초래했으며, 거래자들은 이제 2025년에 소폭 완화를 기대하고 있어 시장 심리에 영향을 미치고 있다.
-- 투자자들은 연준의 정책 방향이 명확해짐에 따라 새해에는 경제 데이터에 더 집중할 가능성이 높다.
-- 지정학적 긴장에도 불구하고, 글로벌 주식 시장은 강력한 미국 경제 성과와 AI 투자에 힘입어 강한 연간 상승세를 보일 준비가 되어 있다.
-- 전반적으로 시장은 통화 정책과 경제 지표의 복잡한 환경을 탐색하고 있으며, 2025년에 대한 신중한 전망을 가지고 있다.
-
-## Asia Shares Ease as Dollar Rises Amid Fed Rate Outlook
-
-> Asia shares saw a slight decline in holiday-thinned trade as the dollar strengthened alongside rising U.S. Treasury yields, with investors focused on the Federal Reserve's rate outlook for 2025.
+> 미국 주식은 트럼프 당선자의 정책에 대한 불확실성과 전형적인 연말 랠리에도 불구하고 국채 수익률이 4월 이후 최고 수준에 도달하면서 약간 하락했습니다.
 
 
-- As the year-end approaches, trading volumes have thinned, and the focus remains on the Federal Reserve's monetary policy decisions.
-- The dollar is near a two-year high, and U.S. Treasury yields have increased, impacting commodities and gold prices.
-- The Fed's recent hawkish stance has led to a reassessment of rate cuts, with traders now expecting only modest easing in 2025, affecting market sentiment.
-- Investors are likely to focus more on economic data in the new year as the Fed's policy direction becomes clearer.
-- Despite geopolitical tensions, global stock markets are poised for strong annual gains, driven by robust U.S. economic performance and AI investments.
-- Overall, the market is navigating a complex landscape of monetary policy and economic indicators, with a cautious outlook for 2025.
+- 이 기사는 크리스마스 이후 거래 중 미국 주식 시장과 국채 수익률의 성과를 논의하며 경제 지표와 정치적 불확실성의 영향을 강조합니다.
+- 미국의 주요 3대 주식 지수는 약간 하락했으며, 10년 만기 국채 수익률은 4.619%로 상승하여 시장의 불확실성을 반영했습니다.
+- 시장의 반응은 투자자들이 트럼프 행정부의 영향과 연방준비제도의 통화 정책을 고려하면서 조심스러운 전망을 나타냅니다.
+- 분석가들은 시장이 연방준비제도의 잠재적 조치에 적응함에 따라 10년 만기 국채 수익률이 4.75%에서 5.0% 사이에 도달할 것으로 예상합니다.
+- 현재 시장 역학은 주식 시장의 열광과 채권 시장의 조심스러움 사이의 차이를 나타내며, 이는 투자자 심리를 반영합니다.
+- 약간의 하락에도 불구하고 전체 시장은 연말 성과에 대해 낙관적이며, 올해 동안 상당한 이익이 기록되었습니다.
+
+## Wall Street Stocks Decline Amid Rising Treasury Yields
+
+> U.S. stocks fell slightly as Treasury yields reached their highest levels since April, amidst uncertainties regarding President-elect Trump's policies and a modest sell-off despite the typical holiday rally.
+
+
+- The article discusses the performance of U.S. stock markets and Treasury yields during post-Christmas trading, highlighting the impact of economic indicators and political uncertainties.
+- All three major U.S. stock indexes experienced slight declines, while the 10-year Treasury yield rose to 4.619%, reflecting market uncertainties.
+- The market's reaction indicates a cautious outlook as investors weigh the implications of Trump's incoming administration and the Federal Reserve's monetary policy.
+- Analysts predict that the 10-year Treasury yield could reach between 4.75% and 5.0% as the market adjusts to potential Federal Reserve actions.
+- The current market dynamics suggest a divergence between stock market enthusiasm and bond market caution, reflecting investor sentiment.
+- Despite the slight decline, the overall market remains optimistic about year-end performance, with significant gains recorded throughout the year.
 
 ## Keywords
 
-- Federal Reserve: The central banking system of the United States, responsible for monetary policy.
-- Treasury Yields: The interest rates on U.S. government bonds, which influence other interest rates.
-- Commodities: Basic goods used in commerce that are interchangeable with other goods of the same type.
-- Bitcoin: A decentralized digital currency that has gained popularity for international transactions.
+- Santa Claus Rally: A phenomenon where stock prices often rise during the last week of December due to low trading volumes and year-end investment activities.
+- Treasury Yield: The return on investment, expressed as a percentage, on the U.S. government's debt obligations.
+- Monetary Easing: A policy used by central banks to stimulate the economy by lowering interest rates and increasing the money supply.
+- Profit Taking: The act of selling an asset to realize gains, often after a period of price appreciation.
+- Geopolitical Tensions: Political and economic conflicts between countries that can impact global markets.
 
 ## 참고사항
 
-- 원문의 길이 = 4,065 Characters
+- 원문의 길이 = 3,887 Characters
 
