@@ -1,7 +1,7 @@
 ---
 lang: kr
 title: "중국 수요 우려와 미국 인플레이션 데이터 속에서 안정된 유가"
-excerpt: 유가는 중국 수요와 미국 인플레이션 둔화에 따른 금리 인하 기대를 평가하면서 안정세를 유지했다. 브렌트유는 $72.94, WTI는 $69.46에 마감하며 주간 기준으로 각각 약 2.5% 하락했다.
+excerpt: 유가는 중국 수요와 미국 인플레이션 둔화에 따른 금리 인하 기대를 평가하면서 안정세를 유지했다. 브렌트유는 72.94달러, WTI는 69.46달러로 마감했으며, 주간 기준으로 각각 약 2.5% 하락했다.
 published: true
 toc: true
 toc_sticky: true
@@ -18,14 +18,14 @@ tags:
 
 ## 중국 수요 우려와 미국 인플레이션 데이터 속에서 안정된 유가
 
-> 유가는 중국 수요와 미국 인플레이션 둔화에 따른 금리 인하 기대를 평가하면서 안정세를 유지했다. 브렌트유는 $72.94, WTI는 $69.46에 마감하며 주간 기준으로 각각 약 2.5% 하락했다.
+> 유가는 중국 수요와 미국 인플레이션 둔화에 따른 금리 인하 기대를 평가하면서 안정세를 유지했다. 브렌트유는 72.94달러, WTI는 69.46달러로 마감했으며, 주간 기준으로 각각 약 2.5% 하락했다.
 
 
-- 최근 데이터는 미국 인플레이션 둔화를 보여주어 유가와 금리에 대한 시장 기대에 영향을 미쳤다.
-- 미국 달러는 2년 만에 최고치에서 하락했으며, 특히 중국과 관련된 유가 수요 우려가 여전히 존재한다.
-- OPEC+는 글로벌 유가 수요 성장 전망을 다섯 번째 연속으로 하향 조정하여 2025년까지 유가 시장의 잉여 가능성을 시사하고 있다.
-- JPMorgan은 비-OPEC+ 공급 증가로 인해 2025년까지 유가 시장이 균형에서 하루 120만 배럴의 잉여로 전환될 것으로 예상하고 있다.
-- 시장 분석가들은 인플레이션 둔화와 금리 인하 가능성이 유가 수요를 지원할 수 있다고 제안하지만, 중국 소비에 대한 우려가 여전히 존재한다고 언급하고 있다.
+- 최근 데이터는 미국 인플레이션의 둔화를 보여주어 유가와 금리에 대한 시장 기대에 영향을 미쳤다.
+- 미국 달러는 2년 만에 최고치에서 후퇴했지만, 3주 연속 상승세를 이어가고 있으며, 특히 중국의 수요에 대한 우려가 여전히 존재한다.
+- OPEC+는 글로벌 석유 수요 성장 전망을 5개월 연속 하향 조정했으며, 2025년까지 석유 시장의 잠재적 과잉을 시사하고 있다.
+- JPMorgan은 2025년까지 비-OPEC+ 공급 증가로 인해 석유 시장이 균형에서 하루 120만 배럴의 과잉으로 전환될 것으로 예상하고 있다.
+- 시장 분석가들은 인플레이션 둔화와 금리 인하 가능성이 결합되어 중국 소비에 대한 우려에도 불구하고 석유 수요를 지원할 수 있다고 제안한다.
 - 유가는 미국 경제 데이터, 중국 수요 전망, OPEC+ 공급 전략의 복잡한 상호작용에 영향을 받으며, 가까운 미래에 대한 신중한 전망을 보이고 있다.
 
 ## Oil Prices Steady Amid Chinese Demand Concerns and U.S. Inflation Data
@@ -34,7 +34,7 @@ tags:
 
 
 - Recent data showed a slowdown in U.S. inflation, influencing oil prices and market expectations regarding interest rates.
-- The U.S. dollar has retreated from a two-year high, while oil demand concerns, particularly regarding China, persist.
+- The U.S. dollar has retreated from a two-year high but is on track for a third consecutive week of gains, while concerns about demand, particularly from China, persist.
 - OPEC+ has revised its global oil demand growth forecast downwards for the fifth consecutive month, indicating a potential surplus in the oil market by 2025.
 - JPMorgan forecasts a shift from balance to a surplus of 1.2 million barrels per day in the oil market by 2025, driven by increased non-OPEC+ supply.
 - Market analysts suggest that the combination of cooling inflation and potential interest rate cuts could support oil demand, despite concerns about Chinese consumption.
@@ -43,10 +43,10 @@ tags:
 ## Keywords
 
 - Brent Crude: A major trading classification of crude oil.
-- WTI: West Texas Intermediate, a benchmark for oil pricing in the U.S.
+- WTI: West Texas Intermediate, a benchmark for oil prices in the U.S.
 - OPEC+: A group of oil-producing countries that coordinate production levels.
 - Inflation: The rate at which the general level of prices for goods and services rises.
-- Surplus: An excess of supply over demand.
+- Interest Rates: The amount charged by lenders to borrowers for the use of money.
 
 ## 참고사항
 
