@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - TSLA
+    - DXY
 tags:
-    - TSLA
+    - DXY
 ---
 
 ---
@@ -25,8 +25,8 @@ tags:
 - ARK의 최근 거래는 테슬라에 대한 신뢰의 잠재적 변화를 나타내는 반면, GitLab과 아마존에 대한 강한 지지를 보여줍니다.
 - 테슬라 주식의 매도는 단기 전망에 대한 재평가를 시사하며, GitLab과 아마존의 매수는 이들의 성장 잠재력에 대한 긍정적인 전망을 나타냅니다.
 - 투자자들은 ARK의 거래를 지속적으로 모니터링하여 향후 투자 전략 및 시장 동향에 대한 징후를 찾을 것입니다.
-- 이 거래는 변화하는 시장에서 ARK의 적응 전략을 반영하며, 기술 및 생명공학 분야에 중점을 두고 있습니다.
-- ARK의 거래 활동은 시장 상황과 기회에 대응하는 역동적인 투자 접근 방식을 강조합니다.
+- 이 거래는 변화하는 시장에서 ARK의 적응 전략을 반영하며, 기술 및 성장 분야에 대한 집중을 강조합니다.
+- ARK의 거래 활동은 특히 기술 분야에서 그들의 투자 철학과 시장 포지셔닝에 대한 귀중한 통찰력을 제공합니다.
 
 ## Cathie Wood's ARK ETFs Daily Trades Summary - December 23, 2024
 
@@ -37,16 +37,16 @@ tags:
 - ARK's recent trades indicate a potential shift in confidence regarding Tesla, while showing strong support for GitLab and Amazon.
 - The sale of Tesla shares suggests a reassessment of its short-term prospects, while the purchases of GitLab and Amazon indicate a bullish outlook on their growth potential.
 - Investors will continue to monitor ARK's trades for indications of future investment strategies and market trends.
-- The trades reflect ARK's adaptive strategy in a changing market, with a focus on technology and biotech sectors.
-- ARK's trading activities highlight its dynamic approach to investment, responding to market conditions and opportunities.
+- The trades reflect ARK's adaptive strategy in a changing market, emphasizing their focus on technology and growth sectors.
+- ARK's trading activities provide valuable insights into their investment philosophy and market positioning, particularly in the tech sector.
 
 ## Keywords
 
 - Tesla: An electric vehicle manufacturer known for its innovative technology and market volatility.
-- GitLab: A DevOps platform provider that has been gaining traction in the tech industry.
+- GitLab: A DevOps platform provider that has gained popularity for its collaborative software development tools.
 - Amazon: A leading e-commerce and cloud computing company with a strong market presence.
-- Palantir: A data analytics firm that has seen reduced interest from ARK in recent trades.
-- Biotech: A sector focused on medical and biological innovations, which ARK is actively investing in.
+- Palantir: A data analytics company that has faced scrutiny and fluctuating investor confidence.
+- 10X Genomics: A genomics company focused on advancing scientific research and healthcare.
 
 ## 참고사항
 
