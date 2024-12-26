@@ -1,7 +1,7 @@
 ---
 lang: kr
 title: "트럼프의 외교 정책 접근: 팽창주의와 위협"
-excerpt: 도널드 트럼프의 외교 정책은 파나마 운하와 그린란드에 대한 동맹국에 대한 위협을 포함하여 미국의 이익을 공격적으로 주장하는 데 중점을 두며 외교적 규범에서 벗어난 신호를 보이고 있다.
+excerpt: 도널드 트럼프의 외교 정책은 외교적 규범에서 벗어나 미국의 이익을 공격적으로 주장하는 데 중점을 두고 있으며, 파나마 운하를 되찾고 그린란드를 인수하겠다는 위협을 포함하고 있다.
 published: true
 toc: true
 toc_sticky: true
@@ -18,35 +18,35 @@ tags:
 
 ## 트럼프의 외교 정책 접근: 팽창주의와 위협
 
-> 도널드 트럼프의 외교 정책은 파나마 운하와 그린란드에 대한 동맹국에 대한 위협을 포함하여 미국의 이익을 공격적으로 주장하는 데 중점을 두며 외교적 규범에서 벗어난 신호를 보이고 있다.
+> 도널드 트럼프의 외교 정책은 외교적 규범에서 벗어나 미국의 이익을 공격적으로 주장하는 데 중점을 두고 있으며, 파나마 운하를 되찾고 그린란드를 인수하겠다는 위협을 포함하고 있다.
 
 
-- 트럼프가 취임을 준비하면서 우크라이나 전쟁과 중동의 갈등을 포함한 외교 정책 위기를 다루고 있으며, 전략적 영토에 대한 미국의 통제에 대한 대담한 주장을 하고 있다.
-- 트럼프의 최근 발언은 미국의 힘을 공격적으로 사용할 의지를 나타내며, 동맹국에 대한 위협과 미국이 파나마 운하를 통제하고 그린란드를 인수해야 한다고 제안하고 있다.
-- 트럼프의 접근 방식은 주요 동맹국을 소외시킬 위험이 있으며, 그들을 중국 및 러시아와 같은 경쟁 세력으로 밀어낼 수 있으며, 파나마와 그린란드에 대한 정당한 우려에 대한 논의를 복잡하게 만들 수 있다.
-- 트럼프 행정부는 미국의 이익을 공격적으로 주장할 가능성이 있으며, 이는 동맹국과의 긴장을 더욱 고조시키고 라틴 아메리카에서 중국의 영향력에 대응하는 데 중점을 둘 수 있다.
-- 트럼프의 외교 정책은 국제 관계에 대한 거래적 관점을 반영하며, 전통적인 동맹과 외교 프로토콜보다 미국의 이익을 우선시한다.
-- 트럼프의 외교 정책 접근 방식은 공격적인 태도와 미국의 지배력에 중점을 두고 있으며, 이는 중요한 지정학적 변화와 동맹국과의 긴장 관계로 이어질 수 있다.
+- 트럼프가 취임을 준비하면서 우크라이나 전쟁과 중동의 갈등을 포함한 외교 정책 위기를 다룰 것으로 예상되며, 동맹국에 대한 공격적인 발언도 하고 있다.
+- 트럼프의 최근 발언은 동맹국으로부터 양보를 이끌어내기 위해 미국의 힘을 사용할 의지를 나타내며, 주요 파트너를 소외시킬 우려를 낳고 있다.
+- 트럼프의 접근 방식은 동맹국과의 관계를 긴장시킬 수 있으며, 이로 인해 그들이 중국이나 러시아와 같은 경쟁 세력에 더 가까워질 수 있다.
+- 트럼프 행정부는 그린란드에 대한 잠재적 협상과 캐나다에 대한 관세 부과를 포함하여 공격적인 외교 정책 전술을 계속 추구할 수 있다.
+- 트럼프의 외교 정책은 전통적인 외교 관계보다 미국의 이익을 우선시하는 일방주의로의 전환을 반영한다.
+- 트럼프의 외교 정책 전략은 대담한 위협과 미국의 지배력에 초점을 맞추고 있으며, 이는 동맹국과의 관계를 재편할 수 있다.
 
 ## Trump's Foreign Policy Approach: Expansionism and Threats
 
-> Donald Trump's foreign policy signals a departure from diplomatic norms, focusing on aggressive assertions of U.S. interests, including threats to allies like Panama and Denmark over the Panama Canal and Greenland.
+> Donald Trump's foreign policy signals a departure from diplomatic norms, focusing on aggressive assertions of U.S. interests, including threats to retake the Panama Canal and acquire Greenland.
 
 
-- As Trump prepares to take office, he is addressing foreign policy crises, including the war in Ukraine and conflicts in the Middle East, while also making bold claims about U.S. control over strategic territories.
-- Trump's recent comments indicate a willingness to use U.S. power aggressively, threatening allies and suggesting the U.S. should control the Panama Canal and acquire Greenland.
-- Trump's approach risks alienating key allies and could push them towards competing powers like China and Russia, while also complicating discussions on legitimate concerns regarding Panama and Greenland.
-- Trump's administration may continue to assert U.S. interests aggressively, potentially leading to further tensions with allies and a focus on countering Chinese influence in Latin America.
-- Trump's foreign policy reflects a transactional view of international relations, prioritizing U.S. interests over traditional alliances and diplomatic protocols.
-- Trump's foreign policy approach is characterized by aggressive posturing and a focus on U.S. dominance, which may lead to significant geopolitical shifts and strained relationships with allies.
+- As Trump prepares to take office, he is expected to address foreign policy crises, including the war in Ukraine and conflicts in the Middle East, while also making aggressive statements towards allies.
+- Trump's recent comments indicate a willingness to use U.S. power to extract concessions from allies, raising concerns about alienating key partners.
+- Trump's approach could lead to strained relations with allies, potentially pushing them closer to rival powers like China and Russia.
+- Trump's administration may continue to pursue aggressive foreign policy tactics, including potential negotiations over Greenland and tariffs on Canada.
+- Trump's foreign policy reflects a shift towards unilateralism, prioritizing American interests over traditional diplomatic relationships.
+- Trump's foreign policy strategy is characterized by bold threats and a focus on American dominance, which may reshape U.S. relations with allies.
 
 ## Keywords
 
 - America First: A foreign policy approach prioritizing U.S. interests over international cooperation.
 - Panama Canal: A vital waterway that Trump suggested the U.S. should control due to alleged high fees charged by Panama.
 - Greenland: A strategically important territory that Trump has expressed interest in acquiring.
-- COFA: Compact of Free Association, a potential agreement for economic integration with Greenland if it becomes independent.
-- Chinese Influence: The growing economic and political presence of China in Latin America, which Trump aims to counter.
+- Tariffs: Taxes imposed on imports, which Trump has threatened to use against Canada.
+- Unilateralism: A foreign policy approach that emphasizes acting independently rather than through international agreements.
 
 ## 참고사항
 
