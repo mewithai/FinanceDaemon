@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - GOLD
+    - DXY
 tags:
-    - GOLD
+    - DXY
 ---
 
 ---
@@ -21,24 +21,24 @@ tags:
 > 일본 주식 시장은 목요일에 상승 마감했으며, 니케이 225 지수는 조선, 자동차 및 화학 부문의 상승에 힘입어 1.39% 상승했습니다.
 
 
-- 일본 주식 시장은 제조업과 소매업을 중심으로 다양한 부문의 영향을 받아 변동성을 겪고 있습니다.
-- 장 마감 시, J.Front Retailing Co.는 큰 상승폭을 보였고, Rakuten Inc.는 소수의 하락 종목 중 하나였습니다.
-- 니케이 225의 상승은 긍정적인 투자자 심리를 나타내며, 일부 주식의 하락은 특정 부문의 도전을 반영합니다.
-- 시장 분석가들은 지속적인 변동성을 예상하지만 주요 부문의 회복에 대해 낙관적입니다.
-- J.Front Retailing Co.의 5년 최고치 도달은 소매 부문의 강한 회복을 시사하며, Eisai Co.의 하락은 제약 부문에서의 잠재적 문제를 나타냅니다.
-- 전반적으로 일본 주식 시장은 특정 부문이 번창하는 가운데 회복력을 보이고 있으며, 다른 부문은 도전에 직면해 있습니다.
+- 일본 주식 시장은 조선 및 자동차를 포함한 다양한 부문의 영향을 받아 변동성을 겪고 있습니다.
+- 니케이 225 지수가 상승했으며, J.Front Retailing과 Nissan Motor가 두드러진 상승을 보인 반면, Rakuten과 Eisai는 하락했습니다.
+- 상승 주식이 하락 주식을 크게 초과하여 긍정적인 시장 심리를 나타내며, 변동성은 3개월 최저치에 도달했습니다.
+- 시장 분석가들은 지속적인 변동성이 예상되지만 주요 부문에서의 성장 가능성을 보고 있습니다.
+- J.Front Retailing의 5년 최고치 도달은 Eisai의 5년 최저치와 대조를 이루며, 부문별 역학을 반영합니다.
+- 전반적으로 일본 주식 시장은 주요 부문에서의 움직임으로 회복력을 보이며, 혼합적이지만 조심스러운 낙관적인 전망을 나타냅니다.
 
 ## Japan Stock Market Update
 
 > Japan's stock market closed higher on Thursday, with the Nikkei 225 rising 1.39%, driven by gains in the Shipbuilding, Automobiles & Parts, and Chemical sectors.
 
 
-- The Japanese stock market has been experiencing fluctuations influenced by various sectors, particularly in manufacturing and retail.
-- At the close, J.Front Retailing Co. saw significant gains, while Rakuten Inc. was among the few decliners.
-- The rise in the Nikkei 225 indicates positive investor sentiment, while the decline in some stocks reflects sector-specific challenges.
-- Market analysts expect continued volatility but remain optimistic about recovery in key sectors.
-- The performance of J.Front Retailing Co. reaching a 5-year high suggests strong retail sector recovery, while Eisai Co.'s decline indicates potential issues in the pharmaceutical sector.
-- Overall, the Japanese stock market shows resilience with certain sectors thriving, while others face challenges.
+- The Japanese stock market has been experiencing fluctuations influenced by various sectors, including shipbuilding and automobiles.
+- The Nikkei 225 index rose, with notable gains from J.Front Retailing and Nissan Motor, while Rakuten and Eisai saw declines.
+- Rising stocks outnumbered declining ones significantly, indicating a positive market sentiment, while volatility reached a three-month low.
+- Market analysts expect continued volatility but potential for growth in key sectors.
+- The performance of J.Front Retailing reaching five-year highs contrasts with Eisai's five-year lows, reflecting sector-specific dynamics.
+- Overall, the Japanese stock market shows resilience with significant sectoral movements, indicating a mixed but cautiously optimistic outlook.
 
 ## Keywords
 
