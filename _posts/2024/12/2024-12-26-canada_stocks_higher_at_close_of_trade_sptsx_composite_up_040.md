@@ -1,15 +1,15 @@
 ---
 lang: kr
 title: "캐나다 주식, 청정 기술, IT 및 에너지 부문 주도로 상승 마감"
-excerpt: 캐나다 주식이 수요일에 청정 기술, IT 및 에너지 부문의 상승에 힘입어 0.40% 상승하며 마감했습니다. 블랙베리 주식은 52주 최고치에 도달했으며, 텔러스 주식은 5년 최저치로 하락했습니다.
+excerpt: 캐나다 주식은 수요일에 청정 기술, IT 및 에너지 부문의 상승에 힘입어 0.40% 상승한 S&P/TSX 종합지수로 마감했습니다. 블랙베리는 52주 최고치를 기록했으며, 텔러스는 5년 최저치로 하락했습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - GOLD
+    - DXY
 tags:
-    - GOLD
+    - DXY
 ---
 
 ---
@@ -18,13 +18,13 @@ tags:
 
 ## 캐나다 주식, 청정 기술, IT 및 에너지 부문 주도로 상승 마감
 
-> 캐나다 주식이 수요일에 청정 기술, IT 및 에너지 부문의 상승에 힘입어 0.40% 상승하며 마감했습니다. 블랙베리 주식은 52주 최고치에 도달했으며, 텔러스 주식은 5년 최저치로 하락했습니다.
+> 캐나다 주식은 수요일에 청정 기술, IT 및 에너지 부문의 상승에 힘입어 0.40% 상승한 S&P/TSX 종합지수로 마감했습니다. 블랙베리는 52주 최고치를 기록했으며, 텔러스는 5년 최저치로 하락했습니다.
 
 
 - 이 기사는 특정 거래일에 캐나다 주식의 성과를 논의하며, 부문별 상승과 개별 주식 성과를 강조합니다.
-- S&P/TSX 종합지수가 상승 마감했으며, ATS Corporation과 BlackBerry Ltd의 주목할 만한 성과가 있었고, Denison Mines Corp과 Telus Corp은 하락했습니다.
-- 청정 기술, IT 및 에너지 부문의 상승은 긍정적인 투자자 심리를 나타내며, 텔러스 주식의 하락은 해당 부문에서의 어려움을 시사합니다.
-- 투자자들은 성장세를 보이는 부문에 계속 주목할 수 있으며, 텔러스 Corp와 같은 저조한 성과를 보이는 주식의 성과를 주시할 것입니다.
+- S&P/TSX 종합지수가 상승 마감했으며, ATS Corporation과 BlackBerry Ltd의 주목할 만한 성과가 있었고, Denison Mines Corp과 Telus Corp는 하락했습니다.
+- 청정 기술, IT 및 에너지 부문의 상승은 긍정적인 투자자 심리를 나타내며, 텔러스의 하락은 해당 부문에서의 어려움을 시사합니다.
+- 투자자들은 성장세를 보이는 부문에 계속 주목할 수 있으며, 텔러스와 같은 저조한 성과를 보이는 주식의 성과를 모니터링할 것입니다.
 - 주식의 혼합 성과는 시장의 변동성을 강조하며, 일부 부문은 번창하는 반면 다른 부문은 어려움을 겪고 있습니다.
 - 전반적으로 캐나다 주식 시장은 부문별 상승세를 보이며 회복력을 나타냈지만, 개별 주식 성과는 크게 달랐습니다.
 
@@ -44,9 +44,10 @@ tags:
 
 - S&P/TSX Composite: The main stock market index in Canada, representing the performance of the largest companies.
 - Clean Technology: Industries focused on sustainable and environmentally friendly technologies.
-- VIX: A measure of market volatility, indicating investor sentiment.
-- Crude Oil: A major commodity traded in the market, influencing economic conditions.
-- Gold Futures: Contracts to buy or sell gold at a predetermined price in the future, often used as a hedge against inflation.
+- VIX: A measure of market volatility, often referred to as the 'fear index'.
+- Crude Oil: A major commodity traded on the market, influencing energy sector stocks.
+- 52-week high: The highest price at which a stock has traded in the last year.
+- 5-year low: The lowest price at which a stock has traded in the last five years.
 
 ## 참고사항
 
