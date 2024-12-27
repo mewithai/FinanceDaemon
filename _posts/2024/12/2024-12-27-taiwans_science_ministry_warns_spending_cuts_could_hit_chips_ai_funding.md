@@ -23,10 +23,10 @@ tags:
 
 - 대만 의회의 야당이 다수당으로서 최근 경제 및 기술 지출 삭감을 요구하는 법안을 통과시켰고, 이는 시위로 이어졌습니다.
 - 경제부는 내년 지출이 T$297억 삭감될 것으로 예상하며, 기술 프로젝트에 대한 상당한 삭감이 포함됩니다.
-- 자금 삭감은 Micron, AMD, Nvidia와 같은 주요 기술 회사와의 협력에 부정적인 영향을 미치고, 국제 AI 기술 파트너십에 영향을 줄 수 있습니다.
-- 자금 삭감이 시행된다면 대만은 글로벌 기술 시장에서 경쟁력을 유지하는 데 어려움을 겪을 수 있습니다.
-- 이 상황은 대만에서 정치적 갈등이 심화되고 있음을 반영하며, 야당의 의회 통제 속에서 경제적 우선순위가 재편되고 있습니다.
-- 자금 삭감 가능성은 대만의 기술 발전과 글로벌 기술 생태계에서의 역할에 심각한 위협이 됩니다.
+- 자금 삭감은 Micron, AMD, Nvidia와 같은 주요 기술 기업과의 협력에 부정적인 영향을 미치고, 국제 AI 기술 파트너십에 영향을 줄 수 있습니다.
+- 자금 삭감이 시행된다면 대만의 글로벌 기술 산업에서의 위치가 약화될 수 있으며, 특히 AI 및 반도체 분야에서 그럴 것입니다.
+- 야당의 행동은 대만 정치 지형의 중요한 변화를 반영하며, 국가 경제 이익보다 지역 이익을 우선시하고 있습니다.
+- 잠재적인 자금 삭감은 대만의 기술 발전과 국제 경쟁 능력에 심각한 위협이 됩니다.
 
 ## Taiwan's Science Ministry Warns of Funding Cuts
 
@@ -36,18 +36,16 @@ tags:
 - The opposition parties in Taiwan's parliament have a majority and recently passed laws that require cuts to economic and technology spending, which has sparked protests.
 - The Ministry of Economic Affairs has projected a T$29.7 billion reduction in its spending for next year, with significant cuts to technology projects.
 - The funding cuts could negatively impact Taiwan's collaboration with major tech companies like Micron, AMD, and Nvidia, affecting international AI technology partnerships.
-- If the funding cuts are implemented, Taiwan may struggle to maintain its competitive edge in the global technology market.
-- The situation reflects a significant political struggle in Taiwan, where economic priorities are being reshaped amidst opposition control of parliament.
-- The potential funding cuts pose a serious threat to Taiwan's technological advancements and its role in the global tech ecosystem.
+- If the funding cuts are implemented, Taiwan's position in the global tech industry may weaken, particularly in AI and semiconductor sectors.
+- The opposition's actions reflect a significant shift in Taiwan's political landscape, prioritizing local over national economic interests.
+- The potential funding cuts pose a serious threat to Taiwan's technological advancements and its ability to compete internationally.
 
 ## Keywords
 
-- Semiconductors: Essential components used in electronic devices, critical for Taiwan's economy.
-- AI: Artificial Intelligence, a key area of technology that Taiwan is investing in.
-- Aerospace: Industry related to the design and production of aircraft and spacecraft.
-- Micron: A major foreign direct investor in Taiwan, involved in semiconductor manufacturing.
-- AMD: Advanced Micro Devices, a key player in the semiconductor industry.
-- Nvidia: A leading company in graphics processing units and AI technology.
+- Semiconductors: Essential components used in electronic devices, critical for technology development.
+- AI (Artificial Intelligence): Technological systems that simulate human intelligence, increasingly important in various industries.
+- Aerospace: The industry focused on the development of aircraft and spacecraft, significant for national defense and technology.
+- Economic Spending: Government allocation of funds towards various sectors, impacting overall economic growth.
 
 ## 참고사항
 
