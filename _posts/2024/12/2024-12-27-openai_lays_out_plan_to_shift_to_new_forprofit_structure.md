@@ -1,53 +1,60 @@
 ---
 lang: kr
-title: "OpenAI, 투자 유치를 위한 기업 구조 조정 계획"
-excerpt: OpenAI는 운영 관리를 위해 공익 법인을 설립하고 현재의 비영리 구조에서 벗어나 더 많은 투자를 유치할 계획을 발표했습니다. 이 변화는 66억 달러의 자금 조달 라운드를 촉진하고 투자자에 대한 이익 한계를 제거하는 것을 목표로 합니다.
+title: "OpenAI, 공익 법인으로 재구성 계획 발표"
+excerpt: OpenAI는 더 많은 자본을 유치하고 비영리 모체의 제약을 제거하기 위해 공익 법인으로 재구성할 계획을 발표하며, AI 개발에서 이익 창출과 사회적 선을 균형 있게 맞추는 것을 목표로 하고 있습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - MSFT
+    - SOXL
 tags:
-    - MSFT
+    - SOXL
 ---
 
 ---
 
-  원문: [OpenAI outlines new for-profit structure to stay ahead in costly AI race](https://www.investing.com/news/stock-market-news/openai-lays-out-plan-to-shift-to-new-forprofit-structure-3789873)
+  원문: [OpenAI outlines new for-profit structure in bid to stay ahead in costly AI race](https://www.investing.com/news/stock-market-news/openai-lays-out-plan-to-shift-to-new-forprofit-structure-3789873)
 
-## OpenAI, 투자 유치를 위한 기업 구조 조정 계획
+## OpenAI, 공익 법인으로 재구성 계획 발표
 
-> OpenAI는 운영 관리를 위해 공익 법인을 설립하고 현재의 비영리 구조에서 벗어나 더 많은 투자를 유치할 계획을 발표했습니다. 이 변화는 66억 달러의 자금 조달 라운드를 촉진하고 투자자에 대한 이익 한계를 제거하는 것을 목표로 합니다.
-
-
-- 2015년 비영리로 설립된 OpenAI는 인공지능 일반화(AGI) 추구를 위한 자금을 조달하기 위해 구조적 변화를 모색해왔습니다.
-- OpenAI는 현재 1,570억 달러의 가치를 지니고 있으며, 투자자들의 전통적인 자본 요구를 충족하기 위해 구조 조정을 모색하고 있습니다.
-- 구조 조정은 OpenAI가 경쟁업체들이 사용하는 산업 표준에 맞춰 필요한 자본을 보다 효과적으로 조달할 수 있도록 할 것으로 예상됩니다.
-- OpenAI는 델라웨어에 공익 법인을 설립할 계획이며, 이 새로운 구조를 통해 더 많은 투자를 유치할 것입니다.
-- 이 움직임은 기업들이 투자를 유치하면서도 일정 수준의 사회적 책임을 유지하기 위해 구조를 조정하는 기술 산업의 광범위한 추세를 반영합니다.
-- OpenAI의 구조 조정은 상당한 투자 필요성과 사명을 균형 있게 조화시키려는 목표로, AI 분야에서 경쟁력을 갖추기 위한 것입니다.
-
-## OpenAI Plans Corporate Restructuring to Attract Investment
-
-> OpenAI announced plans to create a public benefit corporation to manage its operations and attract more investment, moving away from its current non-profit structure. This change aims to facilitate a $6.6 billion funding round and remove profit caps for investors.
+> OpenAI는 더 많은 자본을 유치하고 비영리 모체의 제약을 제거하기 위해 공익 법인으로 재구성할 계획을 발표하며, AI 개발에서 이익 창출과 사회적 선을 균형 있게 맞추는 것을 목표로 하고 있습니다.
 
 
-- OpenAI, founded in 2015 as a non-profit, has been seeking structural changes to fund its pursuit of artificial general intelligence (AGI).
-- OpenAI is currently valued at $157 billion and is looking to restructure to meet investor demands for conventional equity.
-- The restructuring is expected to enable OpenAI to raise necessary capital more effectively, aligning with industry standards used by competitors.
-- OpenAI plans to incorporate the public benefit corporation in Delaware and will seek to attract more investment through this new structure.
-- This move reflects a broader trend in the tech industry where companies are adapting their structures to attract investment while maintaining some level of social responsibility.
-- OpenAI's restructuring aims to balance its mission with the need for substantial investment, positioning itself competitively in the AI sector.
+- OpenAI는 2015년에 비영리로 설립되었고, 이후 AI 개발을 위한 자금을 확보하기 위해 영리 부문을 만들면서 복잡한 기업 구조를 갖게 되었습니다.
+- 재구성 계획은 AI 자금 조달을 위한 경쟁이 치열한 가운데 나오며, OpenAI는 사명을 지속하기 위해 상당한 자본을 조달하려고 합니다.
+- 공익 법인으로의 전환은 OpenAI가 투자를 유치할 수 있는 능력을 향상시킬 수 있지만, 사회적 책임에 대한 약속을 보장하는 동시에 비판과 법적 도전에 직면해 있습니다.
+- OpenAI의 재구성은 유사한 구조를 사용하는 다른 AI 회사들과의 정렬을 기대하게 하며, 자금 조달 기회가 증가할 수 있습니다.
+- 분석가들은 재구성이 OpenAI가 자금을 계속 모으기 위한 중요한 단계라고 제안하지만, 회사가 반드시 상장될 것이라는 의미는 아닙니다.
+- OpenAI의 공익 법인으로의 전환은 자본에 대한 필요성을 반영하며, 감시 속에서 윤리적 AI 개발에 대한 초점을 유지하려는 시도를 나타냅니다.
+
+## OpenAI Plans Restructuring to Become Public Benefit Corporation
+
+> OpenAI announced plans to restructure as a public benefit corporation to attract more capital and remove restrictions from its nonprofit parent, aiming to balance profit-making with social good in AI development.
+
+
+- OpenAI was founded in 2015 as a nonprofit and later created a for-profit unit to secure funding for AI development, leading to a complex corporate structure.
+- The restructuring plan comes amid a competitive landscape for AI funding, with OpenAI seeking to raise significant capital to continue its mission.
+- The move to a public benefit corporation could enhance OpenAI's ability to attract investment while ensuring a commitment to social responsibility, though it faces criticism and legal challenges.
+- OpenAI's restructuring is expected to align it with other AI companies using similar structures, potentially leading to increased funding opportunities.
+- Analysts suggest that the restructuring is a critical step for OpenAI to continue fundraising, although it does not necessarily mean the company will go public.
+- OpenAI's transition to a public benefit corporation reflects its need for capital while attempting to maintain a focus on ethical AI development amidst scrutiny.
 
 ## Keywords
 
-- Public Benefit Corporation: A corporate structure that allows for profit generation while also serving a public benefit.
-- Artificial General Intelligence (AGI): AI that surpasses human intelligence and can perform any intellectual task that a human can do.
+- Public Benefit Corporation: A corporate structure that allows a company to pursue both profit and social good.
+- Nonprofit: An organization that operates for a purpose other than making a profit.
 - Funding Round: A stage in the investment process where a company raises capital from investors.
-- Valuation: The estimated worth of a company, often used to determine investment terms.
+- Artificial General Intelligence: AI that surpasses human intelligence and can perform any intellectual task that a human can do.
+- Shareholder Value: The value delivered to shareholders of a corporation based on the company's ability to generate profits.
 
 ## 참고사항
 
-- 원문의 길이 = 1,665 Characters
+- 원문의 길이 = 4,576 Characters
+
+fit-making.
+
+## 참고사항
+
+- 원문의 길이 = 4,576 Characters
 
