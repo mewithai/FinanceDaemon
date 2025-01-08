@@ -1,52 +1,52 @@
 ---
 lang: kr
-title: "상반된 관세 보고서로 인한 미국 달러 하락"
-excerpt: 월요일 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 신호로 인해 하락했으며, 트럼프의 소셜 미디어 발언으로 인한 시장 변동성 속에서 달러 지수는 0.64% 하락했습니다.
+title: "상반된 관세 보고서 속에서 하락하는 미국 달러"
+excerpt: 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 보도로 인해 변동성이 큰 거래에서 하락했으며, 달러 지수는 관세 우려 완화 가능성에 시장이 반응하면서 0.64% 하락했습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - NVDA
+    - TSLA
 tags:
-    - NVDA
+    - TSLA
 ---
 
 ---
 
   원문: [Dollar down in choppy trade on Trump tariff confusion](https://www.investing.com/news/economy-news/dollar-holds-near-twoyear-high-yuan-under-threat-3796321)
 
-## 상반된 관세 보고서로 인한 미국 달러 하락
+## 상반된 관세 보고서 속에서 하락하는 미국 달러
 
-> 월요일 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 신호로 인해 하락했으며, 트럼프의 소셜 미디어 발언으로 인한 시장 변동성 속에서 달러 지수는 0.64% 하락했습니다.
+> 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 보도로 인해 변동성이 큰 거래에서 하락했으며, 달러 지수는 관세 우려 완화 가능성에 시장이 반응하면서 0.64% 하락했습니다.
 
 
-- 달러는 최근 강한 경제와 관세로 인한 인플레이션 상승 기대감으로 2년 만에 최고치를 기록했으나, 트럼프의 관세 전략에 대한 상반된 보고서로 인해 불확실성이 커졌다.
-- 달러 지수는 108.26으로 하락했으며, 유로는 달러에 대해 0.76% 상승했다. 시장 반응은 트럼프의 발언과 다가오는 연준의 코멘트에 영향을 받고 있다.
-- 달러의 하락은 트럼프의 관세 계획의 공격성에 대한 시장의 회의감을 반영하며, 투자자들이 더 많은 경제 데이터를 기다리면서 외환 시장에서 추가적인 변동성이 예상된다.
-- 투자자들은 향후 달러 움직임과 금리 기대를 평가하기 위해 다가오는 미국 노동 시장 데이터와 연준 관계자들의 발언에서 신호를 찾고 있다.
-- 시장 분석가들은 트럼프의 소셜 미디어 존재가 통화 변동성을 계속 주도할 것이라고 제안하며, 그의 관세 위협이 처음 우려했던 것만큼 심각하지 않을 것이라는 합의가 이루어지고 있다.
-- 미국 달러의 최근 변동은 통화 시장에 대한 정치적 발전의 영향을 강조하며, 거래자들은 경제 정책에 대한 불확실성 속에서 신중함을 유지하고 있다.
+- 달러는 최근 강한 경제와 관세로 인한 인플레이션 상승 기대감으로 2년 만에 최고치를 기록했으나, 트럼프의 관세 전략에 대한 상반된 뉴스로 인해 불확실성이 커졌다.
+- 달러 지수는 108.26으로 하락했으며, 유로는 달러 대비 0.76% 상승했다. 중국 위안화도 소폭 강세를 보였다. 투자자들은 이번 주 미국 노동 시장 데이터를 기다리고 있다.
+- 시장은 트럼프의 관세 위협이 처음 생각했던 것만큼 심각하지 않을 것이라는 인식에 반응하고 있으며, 이는 달러 하락과 위험 자산의 반등을 초래할 수 있다.
+- 분석가들은 유럽 경제 상황이 개선되거나 관세 기대감이 완화될 경우 달러 지수의 조정이 발생할 수 있다고 제안한다.
+- 트럼프의 발언이 시장 인식에 영향을 미치면서 달러의 변동성이 계속될 것으로 예상되며, 연준의 금리 인하에 대한 신중한 태도도 중요한 역할을 하고 있다.
+- 미국 달러의 최근 하락은 관세 정책과 경제 지표에 대한 시장의 불확실성을 반영하며, 향후 움직임은 국내외 경제 발전에 의해 영향을 받을 가능성이 높다.
 
 ## U.S. Dollar Declines Amid Conflicting Tariff Reports
 
-> The U.S. dollar fell on Monday due to mixed signals regarding President-elect Trump's tariff plans, with the dollar index dropping 0.64% amid market volatility influenced by Trump's social media statements.
+> The U.S. dollar fell in volatile trading due to mixed reports on President-elect Trump's tariff plans, with the dollar index dropping 0.64% as markets reacted to potential easing of tariff concerns.
 
 
-- The dollar had recently reached a two-year high, supported by a resilient economy and expectations of higher inflation from tariffs, but conflicting reports about Trump's tariff strategy led to uncertainty.
-- The dollar index fell to 108.26, with the euro gaining 0.76% against the dollar, while the Chinese yuan strengthened slightly. Market reactions are influenced by Trump's statements and upcoming Fed comments.
-- The dollar's decline reflects market skepticism about the aggressiveness of Trump's tariff plans, with potential for further volatility in foreign exchange markets as investors await more economic data.
-- Investors are looking for signals from upcoming U.S. labor market data and Fed officials' comments to gauge future dollar movements and interest rate expectations.
-- Market analysts suggest that Trump's social media presence will continue to drive currency volatility, with the consensus being that his tariff threats may not be as severe as initially feared.
-- The U.S. dollar's recent fluctuations highlight the impact of political developments on currency markets, with traders remaining cautious amid uncertainty surrounding economic policies.
+- The dollar had recently reached a two-year high, supported by a resilient economy and expectations of higher inflation from tariffs, but conflicting news about Trump's tariff strategy led to uncertainty.
+- The dollar index fell to 108.26, with the euro gaining 0.76% against the dollar, while the Chinese yuan strengthened slightly. Investors are awaiting U.S. labor market data this week.
+- The market is reacting to the perception that Trump's tariff threats may not be as severe as initially thought, leading to a decline in the dollar and a potential rally in risk assets.
+- Analysts suggest a potential correction in the dollar index could occur if European economic conditions improve or if tariff expectations moderate.
+- The volatility in the dollar is expected to continue as Trump's statements influence market perceptions, with the Federal Reserve's cautious stance on rate cuts also playing a role.
+- The U.S. dollar's recent decline reflects market uncertainty regarding tariff policies and economic indicators, with future movements likely influenced by both domestic and international economic developments.
 
 ## Keywords
 
-- Tariff: A tax imposed by a government on imported goods.
+- Tariff: A tax imposed on imported goods, which can affect trade balances and currency values.
 - Dollar Index: A measure of the value of the U.S. dollar relative to a basket of foreign currencies.
-- FX Volatility: Fluctuations in foreign exchange rates.
-- Inflation: The rate at which the general level of prices for goods and services is rising.
-- Federal Reserve: The central banking system of the United States.
+- Inflation: The rate at which the general level of prices for goods and services is rising, eroding purchasing power.
+- Federal Reserve: The central banking system of the United States, which regulates monetary policy.
+- Risk Assets: Investments that carry a higher risk of loss but also the potential for higher returns.
 
 ## 참고사항
 
