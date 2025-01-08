@@ -1,15 +1,15 @@
 ---
 lang: kr
 title: "상반된 관세 보고서 속에서 하락하는 미국 달러"
-excerpt: 월요일 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 보도로 인해 하락했으며, 달러 지수는 관세 우려 완화에 대한 시장의 반응으로 0.64% 하락했습니다.
+excerpt: 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 보도로 인해 변동성이 큰 거래에서 하락했으며, 달러 지수는 관세 우려 완화 가능성에 시장이 반응하면서 0.64% 하락했습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - GOLD
+    - MSFT
 tags:
-    - GOLD
+    - MSFT
 ---
 
 ---
@@ -18,35 +18,35 @@ tags:
 
 ## 상반된 관세 보고서 속에서 하락하는 미국 달러
 
-> 월요일 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 보도로 인해 하락했으며, 달러 지수는 관세 우려 완화에 대한 시장의 반응으로 0.64% 하락했습니다.
+> 미국 달러는 트럼프 당선인의 관세 계획에 대한 엇갈린 보도로 인해 변동성이 큰 거래에서 하락했으며, 달러 지수는 관세 우려 완화 가능성에 시장이 반응하면서 0.64% 하락했습니다.
 
 
-- 달러의 변동은 트럼프 대통령의 관세 전략과 지속적인 경제 상황 속에서 연방준비제도의 통화 정책에 영향을 받습니다.
-- 달러 지수는 11월 말 이후 가장 큰 일일 하락을 겪고 있으며, 유로 및 기타 통화는 달러에 대해 강세를 보이고 있습니다.
-- 시장은 트럼프의 발언에 반응하고 있으며, 그의 관세 계획이 처음 우려했던 것만큼 심각하지 않을 것이라는 기대가 외환 시장의 변동성을 증가시키고 있습니다.
-- 투자자들은 달러의 성과와 금리에 대한 기대에 더 영향을 미칠 수 있는 미국 노동 시장 데이터 발표를 기다리고 있습니다.
-- 분석가들은 유럽 경제 지표가 개선되거나 관세 기대가 완화될 경우 달러의 최근 강세가 도전받을 수 있다고 제안합니다.
-- 달러의 하락은 향후 관세 정책과 경제 상황에 대한 시장의 불확실성을 반영하며, 향후 며칠간 추가적인 변동 가능성이 있습니다.
+- 달러는 최근 강한 경제와 관세로 인한 인플레이션 상승 기대에 힘입어 2년 만에 최고치를 기록했으나, 트럼프의 관세 전략에 대한 상반된 뉴스로 인해 불확실성이 커졌다.
+- 달러 지수는 108.26으로 하락했으며, 유로는 달러 대비 0.76% 상승했고, 중국 위안화도 약간 강세를 보였다.
+- 시장 반응은 투자자들이 트럼프의 관세 위협이 처음 생각했던 것만큼 심각하지 않을 것이라고 믿고 있음을 나타내며, 이는 달러와 국채 수익률의 하락으로 이어졌다.
+- 투자자들은 이번 주 미국 노동 시장 데이터 발표를 기다리고 있으며, 이는 향후 달러 움직임에 영향을 미칠 수 있다. 연준 관계자들의 인플레이션 관련 발언도 주목받고 있다.
+- 달러의 변동성은 새 행정부 하의 경제 정책에 대한 광범위한 시장 불확실성을 반영하며, 이는 글로벌 무역 및 투자에 잠재적인 영향을 미칠 수 있다.
+- 미국 달러의 최근 하락은 통화 시장이 정치적 발전, 특히 무역 정책 및 경제 전망에 얼마나 민감한지를 강조한다.
 
 ## U.S. Dollar Declines Amid Conflicting Tariff Reports
 
-> The U.S. dollar fell on Monday due to mixed reports about President-elect Trump's tariff plans, with the dollar index dropping 0.64% as markets reacted to potential easing of tariff concerns.
+> The U.S. dollar fell in volatile trading due to mixed reports on President-elect Trump's tariff plans, with the dollar index dropping 0.64% as markets reacted to potential easing of tariff concerns.
 
 
-- The dollar's fluctuations are influenced by President Trump's tariff strategies and the Federal Reserve's monetary policy amidst ongoing economic conditions.
-- The dollar index is experiencing its largest daily drop since late November, while the euro and other currencies are gaining strength against the dollar.
-- The market is reacting to Trump's statements, with expectations that his tariff plans may not be as severe as initially feared, leading to increased volatility in foreign exchange markets.
-- Investors are awaiting upcoming U.S. labor market data, which could further influence the dollar's performance and expectations regarding interest rates.
-- Analysts suggest that the dollar's recent strength may be challenged if European economic indicators improve or if tariff expectations moderate.
-- The dollar's decline reflects market uncertainty regarding future tariff policies and economic conditions, with potential for further fluctuations in the coming days.
+- The dollar had recently reached a two-year high, supported by a resilient economy and expectations of higher inflation from tariffs, but conflicting news about Trump's tariff strategy led to uncertainty.
+- The dollar index fell to 108.26, with the euro gaining 0.76% against the dollar, while the Chinese yuan also strengthened slightly.
+- Market reactions indicate that investors believe Trump's tariff threats may not be as severe as initially thought, leading to a decline in the dollar and Treasury yields.
+- Investors are awaiting U.S. labor market data this week, which could influence future dollar movements, alongside comments from Federal Reserve officials regarding inflation.
+- The dollar's volatility reflects broader market uncertainty regarding economic policies under the new administration, with potential implications for global trade and investment.
+- The U.S. dollar's recent decline highlights the sensitivity of currency markets to political developments, particularly regarding trade policies and economic forecasts.
 
 ## Keywords
 
 - Tariff: A tax imposed on imported goods, which can affect trade balances and currency values.
 - Dollar Index: A measure of the value of the U.S. dollar relative to a basket of foreign currencies.
+- Inflation: The rate at which the general level of prices for goods and services is rising, eroding purchasing power.
 - Federal Reserve: The central banking system of the United States, which influences monetary policy and interest rates.
-- FX Volatility: Fluctuations in foreign exchange rates, often influenced by economic news and political events.
-- Economic Indicators: Statistics that provide information about the economic performance of a country, such as inflation and employment rates.
+- Currency Volatility: The degree of variation in the exchange rate of a currency over time.
 
 ## 참고사항
 
