@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - TSLA
+    - USDKRW
 tags:
-    - TSLA
+    - USDKRW
 ---
 
 ---
@@ -21,12 +21,12 @@ tags:
 > 대부분의 아시아 통화는 2025년 미국 금리 인하 둔화 기대감에 트레이더가 반응하면서 보합 내지 약세를 보였고, 중국 위안화는 실망스러운 제조업 지표로 인해 특히 약세를 보였습니다.
 
 
-- 이 기사는 미국 통화 정책 기대와 중국의 최근 경제 데이터에 비추어 아시아 통화의 성과를 논의합니다.
-- 중국 위안화는 제조업 PMI가 실망스러운 성장을 보이며 크게 약세를 보였고, 달러는 금리 인하 속도 둔화 기대 속에 강세를 유지하고 있습니다.
-- 약세의 위안화는 중국의 경제 회복에 대한 우려를 불러일으키고, 달러의 강세는 새로운 미국 행정부 하의 보호무역 정책에 의해 지지받고 있습니다.
-- 분석가들은 경제 압박을 상쇄하기 위해 베이징에서 더 많은 재정 자극이 있을 것으로 예상하며, 미국 정책 변화 속에서 아시아 통화의 전망은 신중하게 유지되고 있습니다.
-- 이 기사는 미국 통화 정책과 아시아 통화 성과의 상호 연결성을 강조하며, 중국 경제가 직면한 도전 과제를 강조합니다.
-- 전반적으로 아시아 통화는 미국 정책 기대와 중국의 실망스러운 경제 데이터로 압박을 받고 있으며, 앞으로의 전망은 신중합니다.
+- 이 기사는 미국 통화 정책 기대와 중국의 최근 경제 데이터에 비추어 아시아 통화의 성과를 다룹니다.
+- 중국 위안화는 크게 약세를 보였고, 대부분의 아시아 통화는 2024년 내내 손실을 기록했으며, 주요 시장의 휴일로 인해 거래량이 제한되었습니다.
+- 중국의 제조업 데이터 약세는 경제 회복에 대한 우려를 불러일으켰고, 미국의 보호무역 정책은 아시아 통화에 추가적인 압력을 가할 것으로 예상됩니다.
+- 분석가들은 지속적인 무역 압박 속에서 중국 경제를 지원하기 위해 추가적인 재정 자극이 필요할 것으로 예상합니다.
+- 이 기사는 미국 통화 정책과 아시아 통화 성과의 상호 연결성을 강조하며, 외부 경제 요인의 영향을 강조합니다.
+- 전반적으로 이 기사는 외부 압력으로 인한 아시아 통화의 도전과 전략적 경제 조치의 필요성을 강조합니다.
 
 ## Asian Currencies Steady Amid U.S. Rate Cut Prospects
 
@@ -34,19 +34,19 @@ tags:
 
 
 - The article discusses the performance of Asian currencies in light of U.S. monetary policy expectations and recent economic data from China.
-- The Chinese yuan has weakened significantly, with manufacturing PMIs showing disappointing growth, while the dollar remains strong amid expectations of slower rate cuts.
-- The weaker yuan raises concerns about China's economic recovery, while the dollar's strength is supported by protectionist policies expected under the new U.S. administration.
-- Analysts expect more fiscal stimulus from Beijing to counteract economic pressures, while the outlook for Asian currencies remains cautious amid U.S. policy changes.
-- The article highlights the interconnectedness of U.S. monetary policy and Asian currency performance, emphasizing the challenges faced by the Chinese economy.
-- Overall, Asian currencies are under pressure due to U.S. policy expectations and disappointing economic data from China, with a cautious outlook ahead.
+- The Chinese yuan has weakened significantly, and most Asian currencies have logged losses throughout 2024, with limited trading volumes due to holidays in major markets.
+- The weaker manufacturing data from China has raised concerns about the economic recovery, while U.S. protectionist policies are expected to further pressure Asian currencies.
+- Analysts expect that more fiscal stimulus from China may be necessary to support its economy amid ongoing trade headwinds.
+- The article highlights the interconnectedness of U.S. monetary policy and Asian currency performance, emphasizing the impact of external economic factors.
+- Overall, the article underscores the challenges faced by Asian currencies due to external pressures and the need for strategic economic measures.
 
 ## Keywords
 
-- Chinese yuan: The currency of China, which has weakened due to disappointing economic data.
+- Chinese Yuan: The currency of China, which has recently weakened due to disappointing economic data.
 - PMI: Purchasing Managers' Index, an indicator of economic health in the manufacturing sector.
-- U.S. interest rates: The rates set by the Federal Reserve, influencing global currency markets.
-- Fiscal stimulus: Government measures to encourage economic growth, particularly in response to downturns.
-- Protectionist policies: Trade policies that restrict imports to protect domestic industries, impacting currency values.
+- Fiscal Stimulus: Government measures to stimulate the economy, particularly in response to economic downturns.
+- Protectionist Policies: Trade policies that restrict imports to protect domestic industries, often impacting currency values.
+- USD/CNY: The exchange rate between the U.S. dollar and the Chinese yuan.
 
 ## 참고사항
 
