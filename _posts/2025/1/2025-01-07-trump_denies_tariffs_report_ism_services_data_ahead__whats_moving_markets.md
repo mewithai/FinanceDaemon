@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - DXY
+    - GOLD
 tags:
-    - DXY
+    - GOLD
 ---
 
 ---
@@ -22,10 +22,10 @@ tags:
 
 
 - 이 기사는 미국 주식 선물의 변동, 트럼프의 관세 정책의 의미, 그리고 엔비디아의 AI 기술 발전을 다루고 있습니다.
-- 미국 주식 선물은 S&P 500과 나스닥이 최근 최고치를 기록한 후 약간 하락했으며, 기술 부문과 관세 논의에서 진행 중인 상황입니다.
-- 트럼프의 관세 축소 부인은 시장 심리에 영향을 미쳤으며, 엔비디아의 신제품은 반도체 부문의 성장을 이끌 것으로 예상됩니다.
-- 투자자들은 경제 동향을 나타낼 수 있는 ISM 비제조업 지수와 구인 보고서를 포함한 향후 경제 데이터를 주목하고 있습니다.
-- 트럼프의 관세 정책과 엔비디아의 혁신에 대한 시장 반응은 정치적 결정과 기술 발전이 경제 전망을 형성하는 데 상호 연결되어 있음을 강조합니다.
+- 미국 주식 선물은 S&P 500과 나스닥이 최고치를 기록한 후 약간 하락했으며, 관세와 경제 성장에 대한 우려가 계속되고 있습니다.
+- 트럼프의 관세 축소 부인은 시장 심리에 영향을 미쳤고, 엔비디아의 신제품은 기술 부문의 성장을 이끌 것으로 예상됩니다.
+- 투자자들은 새로운 행정부 하의 경제 동향을 나타낼 수 있는 ISM 서비스 지수와 구인 데이터 등 다가오는 경제 데이터를 주목하고 있습니다.
+- 트럼프의 관세 정책과 엔비디아의 혁신에 대한 시장 반응은 정치적 결정과 기술 발전이 경제 전망을 형성하는 데 있어 상호 연결되어 있음을 강조합니다.
 - 이 기사는 정치적 발전과 기술적 진보에 의해 영향을 받는 미국 시장의 현재 변동성을 보여주며, 향후 경제 지표에 초점을 맞추고 있습니다.
 
 ## US Stock Futures Dip as Trump Denies Tariff Report and Nvidia Unveils New Chips
@@ -34,19 +34,19 @@ tags:
 
 
 - The article discusses the fluctuations in US stock futures, the implications of Trump's tariff policies, and Nvidia's advancements in AI technology amidst a recovering market.
-- US stock futures are slightly lower after the S&P 500 and Nasdaq reached recent highs, with ongoing developments in the tech sector and tariff discussions.
-- Trump's denial of tariff scaling back has influenced market sentiment, while Nvidia's new chips are expected to drive growth in the semiconductor sector.
-- Investors are watching for upcoming economic data, including the ISM non-manufacturing index and job openings report, which could indicate economic trends.
+- US stock futures are slightly lower after the S&P 500 and Nasdaq reached highs, with ongoing concerns about tariffs and economic growth.
+- Trump's denial of tariff scaling back has influenced market sentiment, while Nvidia's new chips are expected to drive growth in the tech sector.
+- Investors are watching upcoming economic data, including the ISM services index and job openings, which could indicate economic trends under the new administration.
 - The market's reaction to Trump's tariff policies and Nvidia's innovations highlights the interconnectedness of political decisions and technological advancements in shaping economic outlooks.
 - The article illustrates the current volatility in US markets influenced by political developments and technological advancements, with a focus on future economic indicators.
 
 ## Keywords
 
-- S&P 500: A stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States.
-- Nasdaq Composite: A stock market index that includes almost all stocks listed on the Nasdaq stock market, heavily weighted towards technology companies.
-- Tariffs: Taxes imposed by a government on imported goods, often used to protect domestic industries.
-- AI Chips: Specialized hardware designed to accelerate artificial intelligence applications, enhancing performance in tasks like machine learning.
-- ISM Non-Manufacturing Index: An economic indicator that measures the activity level of the non-manufacturing sector, with a reading above 50 indicating expansion.
+- Stock Futures: Contracts to buy or sell a stock at a predetermined price at a future date.
+- Tariffs: Taxes imposed on imported goods to protect domestic industries.
+- AI Chips: Specialized processors designed to accelerate artificial intelligence applications.
+- ISM Index: A key indicator of economic activity in the services sector.
+- Job Openings: A measure of labor demand in the economy.
 
 ## 참고사항
 
