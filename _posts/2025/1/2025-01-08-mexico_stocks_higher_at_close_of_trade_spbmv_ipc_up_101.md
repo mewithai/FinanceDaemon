@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - GOLD
+    - DXY
 tags:
-    - GOLD
+    - DXY
 ---
 
 ---
@@ -23,10 +23,10 @@ tags:
 
 - 최근 멕시코 주식 시장은 여러 섹터의 호조로 긍정적인 움직임을 보이고 있습니다.
 - S&P/BMV IPC 지수는 1.01% 상승했으며, Grupo Televisa와 Promotora y Operadora de Infraestructura의 주가가 눈에 띄게 상승했습니다.
-- 전반적인 상승에도 불구하고 Becle SA와 같은 일부 주식은 사상 최저치에 도달하여 시장에서 혼합된 성과를 나타냅니다.
+- 전반적인 상승에도 불구하고 Becle SA와 같은 일부 주식은 사상 최저치에 도달하여 시장에서 혼합된 성과를 나타냈습니다.
 - 투자자들은 특히 원자재 부문에서 시장의 추가 발전을 주목하고 있습니다.
 - 혼합된 성과는 시장의 변동성을 나타내며, 일부 섹터는 번창하는 반면 다른 섹터는 어려움을 겪고 있습니다.
-- 전반적으로 멕시코 주식 시장은 회복력을 보이지만, 특정 주식의 변동성으로 인해 주의가 필요합니다.
+- 전반적으로 멕시코 주식 시장은 회복력을 보이고 있지만, 특정 주식의 변동성으로 인해 주의가 필요합니다.
 
 ## Mexico Stock Market Update
 
