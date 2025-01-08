@@ -1,52 +1,52 @@
 ---
 lang: kr
-title: "미국 경제 회복력이 금리 기대에 영향을 미치며 글로벌 주식 하락"
-excerpt: 글로벌 증시는 하락한 반면 미국 국채 금리는 미국 경제가 회복세를 보이고 연방준비제도의 금리 인하가 예상보다 적을 것이라는 데이터로 인해 상승했습니다.
+title: "미국 경제 데이터가 연준 금리 인하 감소를 시사하며 글로벌 주식 하락"
+excerpt: 경제지표 호조로 미 연방준비제도이사회가 금리 인하 횟수를 기존 예상보다 줄일 수 있다는 전망이 나오면서 글로벌 증시는 하락하고 미국 국채 금리는 상승했습니다. 월가의 주요 지수는 하락세로 마감했으며 기술주와 소비재가 가장 큰 손실을 입었습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - MSFT
+    - USDKRW
 tags:
-    - MSFT
+    - USDKRW
 ---
 
 ---
 
   원문: [Stocks fall, US yields rise after strong US data](https://www.investing.com/news/stock-market-news/asia-shares-rise-on-prospect-of-softer-trump-tariffs-3799003)
 
-## 미국 경제 회복력이 금리 기대에 영향을 미치며 글로벌 주식 하락
+## 미국 경제 데이터가 연준 금리 인하 감소를 시사하며 글로벌 주식 하락
 
-> 글로벌 증시는 하락한 반면 미국 국채 금리는 미국 경제가 회복세를 보이고 연방준비제도의 금리 인하가 예상보다 적을 것이라는 데이터로 인해 상승했습니다.
-
-
-- 최근 경제 데이터가 미국 경제의 강세를 보여주어 연방준비제도의 금리 인하 기대에 변화가 생겼습니다.
-- 미국 주식 지수는 하락 마감했으며, 기술 및 소비재 부문이 가장 큰 타격을 받았고, 에너지 및 헬스케어 주식은 상승했습니다.
-- 시장은 이제 2025년에 연준의 금리 인하가 단 한 차례만 있을 것으로 예상하고 있으며, 이는 12월에 예상했던 두 차례에서 감소한 것입니다.
-- 투자자들은 장기 금리 상승이 주식 시장에 미치는 영향에 대해 조심스럽게 접근하고 있으며, 이는 주식 성과에 부정적인 영향을 미칠 수 있습니다.
-- 미국 경제의 회복력은 강한 서비스 부문 활동과 일자리 증가로 나타나지만, 고용 시장의 둔화 신호와 대조되어 투자자들에게 불확실성을 초래하고 있습니다.
-- 이 기사는 경제 데이터, 시장 기대 및 금리의 잠재적 미래 방향 간의 복잡한 상호작용을 강조하며, 투자자들 사이의 조심스러운 감정을 강조합니다.
-
-## Global Stocks Decline as U.S. Economic Resilience Impacts Interest Rate Expectations
-
-> Global stocks fell while U.S. Treasury yields rose after data indicated a resilient American economy, suggesting fewer interest rate cuts by the Federal Reserve than previously expected.
+> 경제지표 호조로 미 연방준비제도이사회가 금리 인하 횟수를 기존 예상보다 줄일 수 있다는 전망이 나오면서 글로벌 증시는 하락하고 미국 국채 금리는 상승했습니다. 월가의 주요 지수는 하락세로 마감했으며 기술주와 소비재가 가장 큰 손실을 입었습니다.
 
 
-- Recent economic data has shown strength in the U.S. economy, leading to shifts in market expectations regarding Federal Reserve interest rate cuts.
-- U.S. stock indexes closed lower, with technology and consumer discretionary sectors suffering the most, while energy and healthcare stocks gained.
-- The market is now pricing in only one expected Fed rate cut in 2025, down from two cuts anticipated in December, reflecting a shift in investor sentiment.
-- Investors are cautious about the implications of rising bond yields on equity markets, as higher long-term yields could negatively impact stock performance.
-- The resilience of the U.S. economy, indicated by strong service sector activity and job openings, contrasts with signs of a slowing labor market, creating uncertainty for investors.
-- The article highlights the complex interplay between economic data, market expectations, and the potential future direction of interest rates, emphasizing the cautious sentiment among investors.
+- 미국의 최근 경제 데이터는 경제의 회복력을 나타내며, 이는 연준의 금리 인하에 대한 시장의 기대에 영향을 미치고 있다.
+- 미국 서비스 부문 활동이 가속화되었고, 일자리 공고가 예상치 않게 증가하여 연준의 금리 인하 계획에 대한 재평가가 이루어지고 있으며, 현재 2025년에 단 한 차례의 금리 인하만을 가격에 반영하고 있다.
+- 국채 수익률 상승과 주식 지수 하락은 경제 전망과 연준의 정책 변화에 대한 투자자들의 우려를 반영한다.
+- 시장 분석가들은 장기 수익률 상승이 주식 시장에 계속 압박을 가할 수 있다고 제안하며, 투자자들은 새로운 행정부 정책의 함의에 대해 조심스럽다.
+- 현재의 경제 지표는 강한 경제를 시사하며, 이는 예상보다 적은 금리 인하로 이어질 수 있어 주식 및 채권 시장에 영향을 미친다.
+- 투자자들은 강한 경제 데이터를 바탕으로 연준의 금리 인하 기대치를 조정하고 있으며, 이는 주가 하락과 국채 수익률 상승으로 이어지고 있다.
+
+## Global Stocks Decline as U.S. Economic Data Suggests Fewer Fed Rate Cuts
+
+> Global stocks fell while U.S. Treasury yields rose after strong economic data suggested the Federal Reserve may cut interest rates fewer times than previously expected. Wall Street's main indexes closed lower, with technology and consumer stocks among the biggest losers.
+
+
+- Recent economic data from the U.S. indicates resilience in the economy, impacting market expectations regarding Federal Reserve interest rate cuts.
+- U.S. services sector activity accelerated, and job openings unexpectedly increased, leading to a reassessment of the Fed's rate cut plans, now pricing in only one cut in 2025.
+- The rise in Treasury yields and the decline in stock indexes reflect investor concerns about the economic outlook and potential Fed policy changes.
+- Market analysts suggest that rising long-term yields could continue to pressure equity markets, and investors are cautious about the implications of new administration policies.
+- The current economic indicators suggest a strong economy, which may lead to fewer rate cuts than anticipated, impacting both stock and bond markets.
+- Investors are adjusting their expectations for Fed rate cuts in light of strong economic data, leading to declines in stock prices and rising Treasury yields.
 
 ## Keywords
 
-- U.S. Treasury Yields: The interest rates on U.S. government bonds, which can influence borrowing costs and investment decisions.
-- Federal Reserve: The central banking system of the United States, responsible for monetary policy and interest rate decisions.
-- Bond Yields: The return an investor realizes on a bond, which can affect stock market performance.
-- Job Openings: The number of available positions in the job market, indicating labor demand.
-- Service Sector Activity: Economic activity related to services, which can be a key indicator of overall economic health.
+- Federal Reserve: The central banking system of the United States responsible for monetary policy.
+- Treasury yields: The interest rates on U.S. government bonds, which influence other interest rates.
+- stock indexes: A measurement of the performance of a group of stocks, representing a segment of the market.
+- economic indicators: Statistics that provide information about the economic performance of a country.
+- job openings: The number of available positions that employers are actively seeking to fill.
 
 ## 참고사항
 

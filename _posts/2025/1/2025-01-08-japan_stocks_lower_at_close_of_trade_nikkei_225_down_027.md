@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - MSFT
+    - USDKRW
 tags:
-    - MSFT
+    - USDKRW
 ---
 
 ---
@@ -22,11 +22,11 @@ tags:
 
 
 - 이 기사는 일본 주식 시장의 성과를 개요하며, 특히 니케이 225 지수와 주목할 만한 주식 움직임에 초점을 맞추고 있습니다.
-- 니케이 225 지수는 손실로 마감했으며, 도쿄 증권 거래소에서 2392개의 하락 주식과 1229개의 상승 주식이 있었습니다.
-- 후루카와 전기 주식이 5년 최고치를 기록한 반면, 다른 여러 주식은 상당한 하락을 보이며 시장에서 혼합된 성과를 나타냈습니다.
-- 니케이 변동성 지수가 4.35% 감소한 것으로 나타나 시장 변동성이 여전히 우려 사항입니다.
-- 주식의 혼합된 성과는 부문별 트렌드와 외부 경제 요인에 의해 영향을 받는 시장의 불확실성을 나타냅니다.
-- 전반적으로 일본 주식 시장은 다양한 주식 간의 큰 움직임으로 변동성을 겪고 있습니다.
+- 니케이 225 지수는 하락 마감했으며, 2392개의 주식이 하락하고 1229개의 주식이 상승하여 약세 시장 심리를 나타냅니다.
+- 후루카와 전기 주식은 5년 최고치에 도달했으며, 여러 주요 기업들이 상당한 하락을 경험하여 부문별로 혼합된 성과를 반영합니다.
+- 니케이 변동성 지수가 4.35% 감소한 것으로 나타나 시장 변동성이 여전히 우려됩니다.
+- 니케이 225의 하락은 특히 전력 및 운송 부문에서 신중한 투자자 심리를 나타내며, 후루카와 전기와 같은 일부 주식은 회복력을 보입니다.
+- 전반적으로 일본 주식 시장은 혼합된 성과로 변동성을 겪고 있으며, 투자자들이 정보를 유지할 필요성을 강조합니다.
 
 ## Japan Stock Market Update
 
@@ -34,15 +34,15 @@ tags:
 
 
 - The article provides an overview of the performance of the Japanese stock market, focusing on the Nikkei 225 index and notable stock movements.
-- The Nikkei 225 index closed at a loss, with 2392 declining stocks compared to 1229 advancing stocks on the Tokyo Stock Exchange.
-- Furukawa Electric Co. reached a 5-year high, while several other stocks saw significant declines, indicating mixed performance in the market.
+- The Nikkei 225 index closed down, with 2392 declining stocks compared to 1229 advancing ones, indicating a bearish market sentiment.
+- Furukawa Electric Co. shares reached a 5-year high, while several major companies experienced significant declines, reflecting mixed performance across sectors.
 - Market volatility remains a concern, as indicated by the Nikkei Volatility index, which decreased by 4.35%.
-- The mixed performance of stocks suggests uncertainty in the market, influenced by sector-specific trends and external economic factors.
-- Overall, the Japanese stock market is experiencing volatility with significant movements in both directions among various stocks.
+- The decline in the Nikkei 225 suggests cautious investor sentiment, particularly in the Power and Transportation sectors, while some stocks like Furukawa Electric show resilience.
+- Overall, the Japanese stock market is experiencing volatility with mixed performances, highlighting the need for investors to stay informed.
 
 ## Keywords
 
-- Nikkei 225: A stock market index for the Tokyo Stock Exchange, representing 225 large companies.
+- Nikkei 225: The primary stock market index for the Tokyo Stock Exchange, representing 225 large companies.
 - Volatility: A statistical measure of the dispersion of returns for a given security or market index.
 - Crude Oil: A natural, unrefined petroleum product composed of hydrocarbon deposits and other organic materials.
 
