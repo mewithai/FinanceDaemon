@@ -1,15 +1,15 @@
 ---
 lang: kr
 title: "마이크로소프트, 직원 감축 및 성과 저조 직원에 대한 강경한 입장 발표"
-excerpt: Microsoft는 게임 사업부의 이전 해고와 업계 전반의 어려움에 따라 일자리 감축을 계획하고 저성과 직원에 대해 더 엄격한 접근 방식을 채택하고 있습니다.
+excerpt: Microsoft는 게임 사업부의 이전 정리해고와 업계 전반의 어려움에 따라 감원을 계획하고 저성과 직원에 대해 더 엄격한 접근 방식을 채택하고 있습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - NVDA
+    - DXY
 tags:
-    - NVDA
+    - DXY
 ---
 
 ---
@@ -18,34 +18,34 @@ tags:
 
 ## 마이크로소프트, 직원 감축 및 성과 저조 직원에 대한 강경한 입장 발표
 
-> Microsoft는 게임 사업부의 이전 해고와 업계 전반의 어려움에 따라 일자리 감축을 계획하고 저성과 직원에 대해 더 엄격한 접근 방식을 채택하고 있습니다.
+> Microsoft는 게임 사업부의 이전 정리해고와 업계 전반의 어려움에 따라 감원을 계획하고 저성과 직원에 대해 더 엄격한 접근 방식을 채택하고 있습니다.
 
 
-- 마이크로소프트는 지난 2년 동안 인력을 줄여왔으며, 2023년과 2024년에 게임 부문에 주로 영향을 미치는 대규모 해고를 단행했습니다.
-- 2024년 6월 현재 마이크로소프트는 약 228,000명의 직원을 보유하고 있으며, 추가적인 직원 감축 계획을 확인했지만 규모는 명시되지 않았습니다.
-- 이번 해고는 고금리와 투자 감소로 어려움을 겪고 있는 기술 산업의 광범위한 추세의 일환이며, AI 붐이 다소 완화할 수 있습니다.
-- 마이크로소프트의 AI에 대한 대규모 투자는 향후 직원 감축과 산업 문제의 영향을 완화하는 데 도움이 될 것으로 예상됩니다.
-- 직원 감축과 성과 저조 문제 해결에 대한 회사의 초점은 시장 압력과 효율성 필요에 대한 전략적 변화의 반영입니다.
-- 마이크로소프트의 지속적인 직원 감축과 성과 관리에 대한 초점은 기술 산업이 직면한 도전을 강조하며, AI에 대한 투자는 앞으로 나아갈 길을 제공할 수 있습니다.
+- 마이크로소프트는 2024년 6월 기준으로 약 228,000명의 직원을 보유하고 있으며, 2023년에 약 10,000명, 2024년에 4,000명의 직원을 감축한 바 있습니다.
+- 회사는 감축 계획을 확인했지만 규모를 명시하지 않았으며, 역할이 다시 채워졌을 가능성이 있어 전체 인원 수에는 큰 변화가 없을 것으로 보입니다.
+- 이번 감축은 고금리와 투자 감소에 직면한 기술 산업의 광범위한 추세를 반영하며, AI 붐이 다소 완화할 수 있는 가능성이 있습니다.
+- 마이크로소프트의 AI에 대한 대규모 투자는 감축과 산업적 도전의 부정적 영향을 완화하는 데 도움이 될 것으로 예상됩니다.
+- 회사의 행동은 최근 경제적 압박을 고려할 때 성과와 효율성을 우선시하는 방향으로의 전환을 시사합니다.
+- 마이크로소프트의 직원 감축과 성과 저조에 대한 집중은 기술 부문의 지속적인 도전을 강조하며, AI에 대한 투자가 향후 경로를 제공할 수 있습니다.
 
 ## Microsoft Plans Job Cuts and Tougher Stance on Underperforming Employees
 
 > Microsoft is planning job cuts and adopting a stricter approach towards underperforming employees, following previous layoffs in its gaming division and amid industry-wide challenges.
 
 
-- Microsoft has been reducing its workforce over the past two years, with significant layoffs in 2023 and 2024, primarily affecting its gaming division.
-- As of June 2024, Microsoft has approximately 228,000 employees and has confirmed plans for further job cuts, although the scale remains unspecified.
-- The layoffs are part of a broader trend in the tech industry, which is facing challenges due to high interest rates and reduced investment, although the AI boom may provide some relief.
-- Microsoft's significant investments in AI are expected to help mitigate the impact of job cuts and industry challenges moving forward.
-- The company's focus on cutting jobs and addressing underperformance reflects a strategic shift in response to market pressures and the need for efficiency.
-- Microsoft's ongoing job cuts and focus on performance management highlight the challenges faced by the tech industry, while its investments in AI may offer a path forward.
+- Microsoft had approximately 228,000 employees as of June 2024 and has previously cut around 10,000 jobs in 2023 and 4,000 in 2024.
+- The company confirmed plans for job cuts but did not specify the scale, indicating that roles may have been backfilled, resulting in little change to overall headcount.
+- The layoffs reflect broader trends in the tech industry, which is facing high interest rates and reduced investment, although the AI boom may provide some relief.
+- Microsoft's significant investments in AI are expected to help mitigate the negative impacts of job cuts and industry challenges.
+- The company's actions suggest a shift towards prioritizing performance and efficiency, particularly in light of recent economic pressures.
+- Microsoft's job cuts and focus on underperformance highlight the ongoing challenges in the tech sector, while its investments in AI may offer a path forward.
 
 ## Keywords
 
-- Job Cuts: Reductions in the workforce to improve company performance.
+- Job Cuts: Reductions in the number of employees at a company.
 - Underperforming Employees: Employees who do not meet performance expectations.
-- AI Boom: Rapid growth and investment in artificial intelligence technologies.
-- High Interest Rates: Increased cost of borrowing that affects business investments.
+- AI Boom: A significant increase in investment and interest in artificial intelligence technologies.
+- High Interest Rates: A situation where the cost of borrowing money is elevated, affecting business investments.
 
 ## 참고사항
 
