@@ -1,7 +1,7 @@
 ---
 lang: kr
 title: "2025년 AI 채택 동향 및 주요 기업"
-excerpt: 최근 UBS의 설문조사에 따르면 AI를 사용하는 조직의 61%가 AI를 사용하고 있지만 생산 규모를 확장한 기업은 11%에 불과한 가운데, Nvidia, Microsoft, OpenAI가 AI의 주요 수혜자로 꼽혔습니다. 더딘 도입률로 인해 2025년 초에는 AI가 주도하는 상당한 성장에 대한 우려가 제기되고 있습니다.
+excerpt: 최근 UBS의 설문조사에 따르면 조직에서 AI 도입이 증가하고 있지만, 대부분의 기업이 2025년 또는 2026년까지 AI 이니셔티브를 발전시킬 계획으로 상당한 규모의 확장은 여전히 제한적인 것으로 나타났습니다. 엔비디아, 마이크로소프트, OpenAI가 AI 분야의 주요 수혜자로 꼽혔습니다.
 published: true
 toc: true
 toc_sticky: true
@@ -18,34 +18,34 @@ tags:
 
 ## 2025년 AI 채택 동향 및 주요 기업
 
-> 최근 UBS의 설문조사에 따르면 AI를 사용하는 조직의 61%가 AI를 사용하고 있지만 생산 규모를 확장한 기업은 11%에 불과한 가운데, Nvidia, Microsoft, OpenAI가 AI의 주요 수혜자로 꼽혔습니다. 더딘 도입률로 인해 2025년 초에는 AI가 주도하는 상당한 성장에 대한 우려가 제기되고 있습니다.
+> 최근 UBS의 설문조사에 따르면 조직에서 AI 도입이 증가하고 있지만, 대부분의 기업이 2025년 또는 2026년까지 AI 이니셔티브를 발전시킬 계획으로 상당한 규모의 확장은 여전히 제한적인 것으로 나타났습니다. 엔비디아, 마이크로소프트, OpenAI가 AI 분야의 주요 수혜자로 꼽혔습니다.
 
 
-- 이 설문조사는 125개 조직의 IT 임원들을 대상으로 하였으며, 2024년 5월 이후 AI 채택의 변화를 반영합니다.
-- 조직들은 2025년 IT 예산이 4.4% 증가할 것으로 예상하며, 이는 이전 기대치보다 약간 감소했지만 안정적인 지출을 나타냅니다.
-- Nvidia는 선호되는 AI 컴퓨팅 플랫폼이며, Microsoft Azure는 AI 작업을 위한 클라우드 인프라에서 선두를 차지하고 있습니다. OpenAI의 모델은 AI 애플리케이션 분야에서 지배적입니다.
-- 이 설문조사는 Databricks와 Snowflake와 같은 데이터 소프트웨어 회사에 대한 긍정적인 전망을 제시하며, Oracle과 MongoDB는 도전에 직면할 수 있습니다.
-- 예상보다 느린 AI 채택은 주로 ROI에 대한 불확실성 때문이며, 이는 AI 성장에 대한 투자자 기대에 영향을 미치고 있습니다.
-- 느린 채택에도 불구하고 Nvidia, Microsoft, OpenAI와 같은 주요 기업들은 AI 분야에서 미래 성장을 위한 좋은 위치에 있습니다.
+- 이 기사는 기업 AI 채택에 대한 UBS 설문 조사 결과를 논의하며, 조직 간 IT 지출 및 기술 선호도의 변화를 반영합니다.
+- 조사된 조직의 61%가 어떤 형태로든 AI를 사용하고 있지만, 단지 11%만이 AI 생산을 확장했습니다. IT 예산은 2025년에 4.4% 증가할 것으로 예상됩니다.
+- 느린 채택 속도는 ROI 불확실성과 관련이 있으며, 이는 2025년 초 AI 성장에 대한 투자자 기대에 영향을 미칩니다. Nvidia와 Microsoft는 각각 하드웨어 및 클라우드 서비스에서 선두를 달리고 있습니다.
+- 조직들은 2025년에 맞춤형 AI 솔루션 및 데이터 관리에 집중할 것으로 예상되며, Databricks 및 Snowflake와 같은 기업에 긍정적인 전망이 있습니다.
+- 설문 조사 결과는 IT에 대한 안정적인 지출 환경을 제안하며, GPU 공급에 큰 제약이 없지만 AI 애플리케이션 확장에 어려움이 있음을 나타냅니다.
+- Nvidia, Microsoft, OpenAI는 조직 간 AI 이니셔티브의 느린 확장에도 불구하고 AI에 대한 관심 증가로 혜택을 볼 위치에 있습니다.
 
 ## AI Adoption Trends and Key Players in 2025
 
-> A recent UBS survey highlights Nvidia, Microsoft, and OpenAI as key beneficiaries of AI, with 61% of organizations using AI but only 11% having scaled production. The slower adoption rate raises concerns about significant AI-driven growth in early 2025.
+> A recent UBS survey indicates that while AI adoption is increasing among organizations, significant scaling remains limited, with most companies planning to advance their AI initiatives by 2025 or 2026. Nvidia, Microsoft, and OpenAI are identified as key beneficiaries in the AI space.
 
 
-- The survey involved IT executives from 125 organizations and reflects changes in AI adoption since May 2024.
-- Organizations expect a 4.4% increase in IT budgets for 2025, indicating stable spending despite a slight decrease from previous expectations.
-- Nvidia is the preferred AI compute platform, while Microsoft Azure leads in cloud infrastructure for AI workloads. OpenAI's models dominate the AI application landscape.
-- The survey suggests a positive outlook for data software companies like Databricks and Snowflake, while Oracle and MongoDB may face challenges.
-- The slower-than-expected AI adoption is primarily due to uncertainties around ROI, impacting investor expectations for AI growth.
-- Despite the slow adoption, key players like Nvidia, Microsoft, and OpenAI are well-positioned for future growth in the AI sector.
+- The article discusses findings from a UBS survey on enterprise AI adoption, reflecting changes in IT spending and technology preferences among organizations.
+- 61% of surveyed organizations are using AI in some capacity, but only 11% have scaled their AI production. IT budgets are expected to increase by 4.4% in 2025.
+- The slow adoption rate is linked to ROI uncertainties, affecting investor expectations for AI growth in early 2025. Nvidia and Microsoft are leading in hardware and cloud services respectively.
+- Organizations are expected to focus on custom AI solutions and data management in 2025, with positive prospects for companies like Databricks and Snowflake.
+- The survey results suggest a stable spending environment for IT, with no significant constraints in GPU supply but challenges in scaling AI applications.
+- Nvidia, Microsoft, and OpenAI are positioned to benefit from the growing interest in AI, despite the slow scaling of AI initiatives among organizations.
 
 ## Keywords
 
 - AI Adoption: The process of integrating artificial intelligence technologies into business operations.
 - ROI: Return on Investment, a measure used to evaluate the efficiency of an investment.
-- Cloud Infrastructure: The collection of hardware and software components needed for cloud computing.
-- Data Software: Software solutions designed to manage, analyze, and visualize data.
+- Cloud Infrastructure: The collection of hardware and software components needed to support cloud computing.
+- Custom AI Solutions: Tailored artificial intelligence applications designed to meet specific business needs.
 
 ## 참고사항
 
