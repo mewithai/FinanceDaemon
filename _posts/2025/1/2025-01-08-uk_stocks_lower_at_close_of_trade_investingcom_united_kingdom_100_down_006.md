@@ -21,12 +21,12 @@ tags:
 > 화요일 영국 증시는 건설 및 자재, 가정용품 및 주택 건설, 유선 통신 섹터의 하락으로 인해 하락했으며, Investing.com 영국 100 지수는 0.06% 하락했습니다.
 
 
-- 이 기사는 시장 마감 후 영국 주식의 성과를 논의하며, 특정 섹터의 손실과 개별 주식의 성과를 강조합니다.
-- Investing.com 영국 100 지수는 하락 마감했으며, 건설 관련 주식이 52주 최저치에 도달하는 등 주목할 만한 하락세를 보였습니다.
-- 주식의 하락은 특히 건설 부문에서의 광범위한 시장 우려를 반영하며, 이는 향후 투자자 심리에 영향을 미칠 수 있습니다.
-- 투자자들은 특히 건설 및 관련 산업에서 섹터 성과가 계속 변동함에 따라 신중할 수 있습니다.
-- Taylor Wimpey와 Vistry Group과 같은 개별 주식의 성과는 건설 시장에서의 중대한 도전을 나타냅니다.
-- 전반적으로 영국 주식 시장은 특히 건설 부문에서 변동성을 겪고 있으며, 이는 투자자 신뢰에 지속적인 영향을 미칠 수 있습니다.
+- 이 기사는 시장 마감 후 영국 주식의 성과를 논의하며, 섹터별 손실과 개별 주식 성과를 강조합니다.
+- Investing.com 영국 100 지수는 하락 마감했으며, 건설 관련 주식에서 눈에 띄는 하락과 런던 증권 거래소에서의 주식 하락이 다수 발생했습니다.
+- Taylor Wimpey와 Vistry Group의 주식은 52주 최저치에 도달하여 건설 부문에서의 상당한 시장 압박을 나타냅니다.
+- 시장 동향은 영국 주식 시장, 특히 건설 부문에서의 지속적인 변동성을 시사합니다.
+- 건설 주식의 하락은 광범위한 경제적 우려를 반영하며, 이는 투자자 심리와 시장 안정성에 영향을 미칠 수 있습니다.
+- 전반적으로 영국 주식 시장은 특히 건설 부문에서 하락 압력을 경험하고 있으며, 이는 향후 시장 성과에 영향을 미칠 수 있습니다.
 
 ## U.K. Stocks Close Lower Amid Sector Losses
 
@@ -34,17 +34,17 @@ tags:
 
 
 - The article discusses the performance of U.K. stocks following market close, highlighting sector-specific losses and individual stock performances.
-- The Investing.com United Kingdom 100 index closed down, with notable declines in construction-related stocks reaching 52-week lows.
-- The decline in stocks reflects broader market concerns, particularly in the construction sector, which may affect investor sentiment moving forward.
-- Investors may remain cautious as sector performance continues to fluctuate, particularly in construction and related industries.
-- The performance of individual stocks, such as Taylor Wimpey and Vistry Group, indicates significant challenges in the construction market.
-- Overall, the U.K. stock market is experiencing volatility, particularly in construction, which could have lasting effects on investor confidence.
+- The Investing.com United Kingdom 100 index closed down, with notable declines in construction-related stocks and a majority of falling stocks on the London Stock Exchange.
+- Taylor Wimpey and Vistry Group shares hit 52-week lows, indicating significant market pressure in the construction sector.
+- Market trends suggest continued volatility in the U.K. stock market, particularly in the construction sector.
+- The decline in construction stocks reflects broader economic concerns, potentially impacting investor sentiment and market stability.
+- Overall, the U.K. stock market is experiencing downward pressure, particularly in construction, with implications for future market performance.
 
 ## Keywords
 
-- Construction Sector: The industry involved in the building of infrastructure and buildings, which is currently facing significant challenges.
-- 52-week low: The lowest price at which a stock has traded in the last year, indicating potential weakness.
-- Investor Sentiment: The overall attitude of investors towards a particular security or financial market.
+- Construction Sector: Refers to the industry involved in the construction of buildings and infrastructure.
+- 52-week low: The lowest price at which a stock has traded in the last year.
+- Market Volatility: Refers to the frequency and magnitude of price movements in the market.
 
 ## 참고사항
 
