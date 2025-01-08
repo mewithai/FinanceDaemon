@@ -21,31 +21,31 @@ tags:
 > 대만 증시는 기타 전자, 생명공학 및 의료, 정보 서비스 섹터의 상승에 힘입어 상승 마감하며 3개월래 최고치를 경신했습니다.
 
 
-- 대만 가중 지수는 주요 부문에 대한 투자자 신뢰를 반영하여 긍정적인 성과를 보였습니다.
-- 대만 가중 지수는 0.44% 상승했으며, General Interface Solution 및 EverFocus Electronics와 같은 주식에서 주목할 만한 증가가 있었습니다.
-- Cosmo Electronics는 사상 최고치에 도달했으며, United Renewable Energy는 3년 최저치로 떨어져 시장의 변동성을 나타냅니다.
-- 투자자들은 기술 및 재생 에너지 부문에서의 성과를 면밀히 모니터링할 가능성이 높습니다.
-- 주식의 혼합 성과는 투자자들이 고성장 부문에 집중하는 선택적 투자 접근 방식을 나타냅니다.
-- 전반적으로 대만 주식 시장은 특정 부문에서의 상승세로 회복력을 보이고 있지만, 특정 주식에서의 위험도 강조됩니다.
+- 대만 가중 지수는 특정 주식과 섹터에서의 큰 상승으로 긍정적인 성과를 보였습니다.
+- 대만 가중 지수는 0.44% 상승했으며, General Interface Solution이 9.97%로 상승을 주도했습니다. 그러나 Loop Telecommunication은 10%의 큰 하락을 보였습니다.
+- Cosmo Electronics는 사상 최고치를 기록했으며, United Renewable Energy는 3년 만에 최저치로 떨어져 시장의 변동성을 나타냅니다.
+- 시장 동향은 섹터 성과와 원자재 가격에 영향을 받아 계속해서 변동할 것으로 보입니다.
+- 주식의 혼합 성과는 일부 섹터가 번창하는 반면 다른 섹터는 어려움을 겪고 있음을 강조합니다.
+- 투자자들은 시장의 변동성이 나타나는 만큼 주의 깊게 섹터 성과를 모니터링해야 합니다.
 
 ## Taiwan Stock Market Update
 
 > Taiwan stocks closed higher, reaching a new 3-month high, driven by gains in the Other Electronic, Biotech & Medical Care, and Information Services sectors.
 
 
-- The Taiwan Weighted index showed positive performance, reflecting investor confidence in key sectors.
-- The Taiwan Weighted gained 0.44%, with notable increases in stocks like General Interface Solution and EverFocus Electronics.
-- Cosmo Electronics reached all-time highs, while United Renewable Energy fell to 3-year lows, indicating volatility in the market.
-- Investors are likely to monitor sector performances closely, especially in technology and renewable energy.
-- The mixed performance of stocks suggests a selective investment approach among investors, focusing on high-growth sectors.
-- Overall, the Taiwan stock market shows resilience with sector-specific gains, but also highlights risks in certain stocks.
+- The Taiwan Weighted index showed positive performance, with significant gains in specific stocks and sectors.
+- The Taiwan Weighted gained 0.44%, with General Interface Solution leading the gains at 9.97%. However, Loop Telecommunication saw a significant drop of 10%.
+- Cosmo Electronics reached an all-time high, while United Renewable Energy fell to a 3-year low, indicating volatility in the market.
+- Market trends suggest continued fluctuations, influenced by sector performance and commodity prices.
+- The mixed performance of stocks highlights the selective nature of market gains, with some sectors thriving while others struggle.
+- Investors should remain cautious and monitor sector performances closely as the market shows signs of volatility.
 
 ## Keywords
 
-- Taiwan Weighted: The main stock market index in Taiwan.
-- Biotech & Medical Care: A sector focused on biotechnology and healthcare companies.
-- Crude Oil: A major commodity traded globally, influencing economic conditions.
-- USD/TWD: The exchange rate between the US dollar and the New Taiwan dollar.
+- Taiwan Weighted: The main stock market index in Taiwan, reflecting the performance of the stock market.
+- General Interface Solution: A leading stock that saw significant gains in the recent trading session.
+- Cosmo Electronics: A stock that reached an all-time high, indicating strong market performance.
+- United Renewable Energy: A stock that fell to a 3-year low, reflecting challenges in the renewable energy sector.
 
 ## 참고사항
 
