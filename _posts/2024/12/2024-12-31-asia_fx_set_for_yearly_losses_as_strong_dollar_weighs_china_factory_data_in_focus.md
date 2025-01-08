@@ -26,7 +26,7 @@ tags:
 - 강한 달러와 경제적 불확실성으로 아시아 통화가 크게 하락했으며, 한국 원화는 올해 12% 이상 하락했습니다.
 - 시장은 중국의 자극 조치에 대한 더 많은 명확성을 기다리고 있으며, 이는 향후 아시아 통화 성과에 영향을 미칠 수 있습니다.
 - 정치적 혼란 속에서 한국 원화의 하락은 통화가 국내 문제에 얼마나 취약한지를 강조하며, 전반적인 추세는 글로벌 경제 압박을 반영합니다.
-- 아시아 통화는 강한 달러와 경제적 불확실성으로 인해 큰 도전에 직면하고 있으며, 한국 원화는 정치적 불안정성에 특히 영향을 받고 있습니다.
+- 아시아 통화는 달러가 강세를 보이는 가운데 연간 손실을 기록할 것으로 보이며, 한국 원화는 정치적 불안정성으로 인해 특별한 도전에 직면해 있습니다.
 
 ## Asian Currencies Decline Amid Strong Dollar and Economic Concerns
 
@@ -38,7 +38,7 @@ tags:
 - The strong dollar and economic uncertainties have led to significant declines in Asian currencies, with the South Korean won experiencing over a 12% drop this year.
 - Markets are awaiting more clarity on China's stimulus measures, which may influence the yuan and overall Asian currency performance in the coming year.
 - The decline of the South Korean won amid political unrest highlights the vulnerability of currencies to domestic issues, while the broader trend reflects global economic pressures.
-- Asian currencies are facing significant challenges due to a strong dollar and economic uncertainties, with the South Korean won particularly affected by political instability.
+- Asian currencies are set for yearly losses as the dollar remains strong, with specific challenges faced by the South Korean won due to political instability.
 
 ## Keywords
 
@@ -46,7 +46,7 @@ tags:
 - Chinese yuan: The official currency of China, which has been weakening due to slower economic growth.
 - South Korean won: The currency of South Korea, which has seen significant declines amid political unrest.
 - Federal Reserve: The central banking system of the United States, influencing global currency values through interest rate policies.
-- Purchasing Managers Index (PMI): An indicator of the economic health of the manufacturing sector, based on surveys of private sector companies.
+- Purchasing Managers Index (PMI): An economic indicator that measures the activity level of purchasing managers in the manufacturing sector.
 
 ## 참고사항
 
