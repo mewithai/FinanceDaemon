@@ -1,15 +1,15 @@
 ---
 lang: kr
 title: "Nvidia CEO 발언 후 양자 컴퓨팅 주식 하락"
-excerpt: 엔비디아의 CEO 젠슨 황이 실용적인 양자 컴퓨터가 20년 후에나 가능할 것이라고 언급한 이후 양자 컴퓨팅 주가는 큰 폭으로 하락하며 이 분야에 대한 투자자들의 열기를 꺾었습니다.
+excerpt: 엔비디아의 CEO 젠슨 황이 실용적인 양자 컴퓨터가 20년 후에나 가능할 것이라고 말한 후 양자 컴퓨팅 주가는 큰 폭으로 하락하여 이 분야에 대한 투자자들의 열기를 꺾었습니다.
 published: true
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - NVDA
+    - SOXL
 tags:
-    - NVDA
+    - SOXL
 ---
 
 ---
@@ -18,33 +18,33 @@ tags:
 
 ## Nvidia CEO 발언 후 양자 컴퓨팅 주식 하락
 
-> 엔비디아의 CEO 젠슨 황이 실용적인 양자 컴퓨터가 20년 후에나 가능할 것이라고 언급한 이후 양자 컴퓨팅 주가는 큰 폭으로 하락하며 이 분야에 대한 투자자들의 열기를 꺾었습니다.
+> 엔비디아의 CEO 젠슨 황이 실용적인 양자 컴퓨터가 20년 후에나 가능할 것이라고 말한 후 양자 컴퓨팅 주가는 큰 폭으로 하락하여 이 분야에 대한 투자자들의 열기를 꺾었습니다.
 
 
-- 양자 컴퓨팅은 복잡한 문제를 고전 컴퓨터보다 빠르게 해결할 수 있는 잠재력으로 인해 급속히 성장하는 분야로, 상당한 투자와 관심을 받고 있다.
-- Huang의 발언 이후 Rigetti Computing과 IonQ와 같은 주요 양자 컴퓨팅 회사의 주식이 급락하여 약 30억 달러의 시장 가치 손실이 예상된다.
-- 이 발언은 양자 컴퓨팅 주식의 1년간 상승세에 제동을 걸었으며, 이는 이전에 발전과 생성 AI 애플리케이션의 수요 증가로 인해 급등했다.
-- 업계 리더들이 예상보다 더 긴 대기 시간을 제시함에 따라 투자자들은 실용적인 양자 컴퓨팅 응용 프로그램의 일정에 대한 기대를 재평가해야 할 수 있다.
-- Huang의 발언은 양자 컴퓨팅 산업이 직면한 도전 과제를 강조하며, 잠재력이 있지만 상당한 기술적 장애물이 남아 있음을 시사한다.
-- 양자 컴퓨팅 부문은 기술 개발에 대한 현실적인 일정에 따라 투자자 감정이 변화함에 따라 중요한 기로에 직면하고 있으며, 이는 향후 투자에 영향을 미칠 수 있다.
+- 양자 컴퓨팅 분야는 발전과 생성적 AI 애플리케이션으로 인한 컴퓨팅 파워 수요 증가로 인해 1년간 상승세를 보였습니다.
+- Rigetti Computing과 IonQ와 같은 주요 양자 컴퓨팅 회사의 주식이 크게 하락했으며, 총 손실은 시장 가치에서 30억 달러에 이를 수 있습니다.
+- Huang의 발언은 양자 컴퓨팅 발전의 일정 재평가를 초래하여 주가와 투자자 신뢰도에 급격한 하락을 가져왔습니다.
+- 양자 컴퓨팅의 미래는 불확실하며, 기업들은 실용적인 응용 프로그램을 위한 긴 일정에도 불구하고 기술에 대한 투자를 계속할 것으로 예상됩니다.
+- Nvidia CEO의 발언은 양자 컴퓨팅 산업이 직면한 도전을 강조하며, 투자자들이 기대치를 조정해야 할 필요성을 시사합니다.
+- Nvidia CEO의 발언 이후 양자 컴퓨팅 분야는 상당한 후퇴를 겪고 있으며, 이는 앞으로 투자자들이 보다 신중한 접근을 하게 만들 수 있습니다.
 
 ## Quantum Computing Stocks Drop After Nvidia CEO's Comments
 
-> Quantum computing stocks experienced a significant decline after Nvidia CEO Jensen Huang stated that practical quantum computers are likely two decades away, dampening investor enthusiasm in the sector.
+> Quantum computing stocks experienced a significant drop after Nvidia CEO Jensen Huang stated that practical quantum computers are likely two decades away, dampening investor enthusiasm in the sector.
 
 
-- Quantum computing has been a rapidly growing field, with significant investments and interest due to its potential to solve complex problems faster than classical computers.
-- Following Huang's comments, stocks of major quantum computing companies like Rigetti Computing and IonQ fell sharply, leading to an estimated loss of about $3 billion in market value.
-- The comments have caused a pause in a year-long rally for quantum computing stocks, which had previously surged due to advancements and increased demand from generative AI applications.
-- Investors may need to reassess their expectations for the timeline of practical quantum computing applications, as industry leaders suggest a longer wait than previously anticipated.
-- Huang's remarks highlight the challenges facing the quantum computing industry and suggest that while there is potential, significant technological hurdles remain.
-- The quantum computing sector faces a critical juncture as investor sentiment shifts in response to realistic timelines for technology development, potentially impacting future investments.
+- The quantum computing sector had been on a year-long rally, driven by advancements and increasing demand for computing power, particularly from generative AI applications.
+- Shares of major quantum computing companies like Rigetti Computing and IonQ fell significantly, with total losses potentially amounting to $3 billion in market value.
+- Huang's comments have led to a reevaluation of the timeline for quantum computing advancements, causing a sharp decline in stock prices and investor confidence.
+- The future of quantum computing remains uncertain, with companies expected to continue investing in the technology despite the long timeline for practical applications.
+- The comments from Nvidia's CEO highlight the challenges facing the quantum computing industry and suggest that investors may need to temper their expectations.
+- The quantum computing sector faces a significant setback following Nvidia's CEO's remarks, which may lead to a more cautious approach from investors moving forward.
 
 ## Keywords
 
 - Quantum Computing: A type of computing that uses quantum bits to perform calculations at speeds unattainable by classical computers.
 - Niche Calculations: Specific types of calculations that quantum computers can currently perform, which are limited compared to classical computing.
-- Generative AI: Artificial intelligence that can generate new content or data, increasing the demand for advanced computing solutions.
+- Generative AI: Artificial intelligence that can generate new content or data, increasing the demand for advanced computing power.
 - Market Value: The total worth of a company's outstanding shares in the stock market.
 
 ## 참고사항
