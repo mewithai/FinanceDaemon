@@ -22,7 +22,7 @@ tags:
 
 
 - 이 기사는 미국 경제 데이터와 무역 관계가 아시아 통화에 미치는 영향을 다루고 있으며, 특히 미국 금리 변화와 중국과의 정치적 긴장 속에서 다루고 있습니다.
-- 아시아 통화는 하락 압박을 받고 있으며, 달러는 강력한 노동 시장 데이터와 인플레이션 우려로 인해 강세를 보이고 있습니다.
+- 아시아 통화는 하락 압박을 받고 있으며, 달러는 강력한 노동 시장 데이터와 인플레이션 우려로 강세를 보이고 있습니다.
 - 강세 달러와 미국 금리 인상 가능성은 금리 차이를 줄여 아시아 시장에 부정적인 영향을 미칠 수 있습니다.
 - 분석가들은 호주 중앙은행이 내년 2분기부터 금리 인하를 시작할 것으로 예상하며, 연방준비제도는 2025년에 금리 인하 속도를 늦출 수 있습니다.
 - 이 기사는 미국 경제 지표가 아시아 통화와 무역 관계에 상당한 영향을 미치는 글로벌 시장의 상호 연결성을 강조합니다.
@@ -42,11 +42,11 @@ tags:
 
 ## Keywords
 
-- USD/CNY: The exchange rate between the U.S. dollar and the Chinese yuan.
-- USD/JPY: The exchange rate between the U.S. dollar and the Japanese yen.
-- USD/KRW: The exchange rate between the U.S. dollar and the South Korean won.
-- USD/SGD: The exchange rate between the U.S. dollar and the Singapore dollar.
-- USD/INR: The exchange rate between the U.S. dollar and the Indian rupee.
+- Interest Rate Cuts: Reductions in the interest rate set by a central bank, which can influence currency values.
+- Currency Intervention: Actions taken by a government or central bank to influence the value of their currency.
+- Trade Tariffs: Taxes imposed on imported goods, which can affect trade relations and currency strength.
+- Inflation: The rate at which the general level of prices for goods and services rises, eroding purchasing power.
+- Purchasing Managers Index (PMI): An indicator of the economic health of the manufacturing and service sectors.
 
 ## 참고사항
 
