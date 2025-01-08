@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 categories:
-    - DXY
+    - TSLA
 tags:
-    - DXY
+    - TSLA
 ---
 
 ---
@@ -21,12 +21,12 @@ tags:
 > 도널드 트럼프 미국 대통령 당선인은 나토, 이스라엘 인질, 캐나다와 파나마 운하에 대한 논란의 여지가 있는 그의 생각 등 다양한 주제에 대해 기자회견을 열었습니다.
 
 
-- 이 기자회견은 트럼프의 2017년 1월 20일 취임식 전에 열렸으며, 그는 국제 관계와 국내 문제에 대한 자신의 견해를 설명했습니다.
+- 이 기자회견은 2017년 1월 20일 트럼프의 취임식 전에 열렸으며, 그는 국제 관계와 국내 문제에 대한 자신의 견해를 설명했습니다.
 - 트럼프의 발언은 그가 취임을 준비하면서 외교 정책과 국가 안보 문제에 대한 그의 행정부의 접근 방식을 반영합니다.
-- 트럼프의 발언은 NATO 자금 지원 및 캐나다 및 멕시코와의 관계와 관련하여 미국 외교 정책에 영향을 미칠 수 있습니다.
-- 트럼프 행정부는 NATO 기여금 및 영토 주장과 관련하여 공격적인 정책을 추구할 수 있으며, 이는 동맹국과의 긴장으로 이어질 수 있습니다.
-- 트럼프의 발언은 국제 관계에서 더 거래적인 접근 방식으로의 전환을 나타내며, 미국의 경제적 이익을 우선시합니다.
-- 트럼프의 기자회견은 외교 정책과 국가 안보에 대한 그의 비전통적인 견해를 강조하며, 그의 대통령직을 위한 무대를 설정합니다.
+- 트럼프의 NATO 및 기타 국제 문제에 대한 발언은 미국 외교 정책의 우선 순위 변화의 징후로, 동맹국과의 관계에 긴장을 초래할 수 있습니다.
+- 트럼프 행정부는 NATO 자금 지원 및 영토 주장에 대한 공격적인 정책을 추구할 수 있으며, 이는 미국과 캐나다 및 기타 국가와의 관계에 영향을 미칠 것입니다.
+- 트럼프의 발언은 전통적인 동맹보다 미국의 경제적 이익을 우선시하는 보다 거래적인 국제 관계 접근 방식을 시사합니다.
+- 트럼프의 기자회견은 외교 정책과 국가 안보에 대한 그의 비전통적인 견해를 강조하며, 잠재적으로 논란이 많은 행정부의 무대를 설정합니다.
 
 ## Trump's Press Conference Highlights
 
@@ -35,18 +35,18 @@ tags:
 
 - This press conference took place ahead of Trump's inauguration on January 20, 2017, where he outlined his views on international relations and domestic issues.
 - Trump's statements reflect his administration's approach to foreign policy and national security concerns as he prepares to take office.
-- Trump's comments may influence U.S. foreign policy, particularly regarding NATO funding and relations with Canada and Mexico.
-- Trump's administration may pursue aggressive policies regarding NATO contributions and territorial claims, potentially leading to tensions with allies.
-- Trump's remarks indicate a shift towards a more transactional approach in international relations, prioritizing U.S. economic interests.
-- Trump's press conference highlights his unconventional views on foreign policy and national security, setting the stage for his presidency.
+- Trump's comments on NATO and other international issues indicate a shift in U.S. foreign policy priorities, potentially straining relations with allies.
+- Trump's administration may pursue aggressive policies regarding NATO funding and territorial claims, impacting U.S. relations with Canada and other nations.
+- Trump's remarks suggest a more transactional approach to international relations, prioritizing U.S. economic interests over traditional alliances.
+- Trump's press conference highlights his unconventional views on foreign policy and national security, setting the stage for a potentially contentious administration.
 
 ## Keywords
 
 - NATO: North Atlantic Treaty Organization, a military alliance of European and North American countries.
+- Panama Canal: A key waterway in Panama that connects the Atlantic and Pacific Oceans.
 - Greenland: A territory of Denmark that Trump suggested the U.S. should buy.
-- Panama Canal: A vital waterway that Trump mentioned should be under U.S. control.
-- Trade Deficit: The amount by which the cost of a country's imports exceeds the value of its exports.
-- Elon Musk: CEO of Tesla, mentioned by Trump in relation to his comments on foreign affairs.
+- Trade Deficit: An economic measure of a country's imports exceeding its exports.
+- Elon Musk: CEO of Tesla and SpaceX, known for his controversial statements and business ventures.
 
 ## 참고사항
 
