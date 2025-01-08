@@ -22,11 +22,11 @@ tags:
 
 
 - 이 기사는 시장 마감 후 영국 주식의 성과를 논의하며, 섹터별 손실과 개별 주식 성과를 강조합니다.
-- Investing.com 영국 100 지수는 하락 마감했으며, 건설 관련 주식이 52주 최저치에 도달하는 등 주목할 만한 하락세를 보였습니다.
-- 주식의 하락은 특히 건설 부문에서의 광범위한 시장 우려를 반영하며, 이는 향후 투자자 심리에 영향을 미칠 수 있습니다.
-- 투자자들은 건설 부문에서의 추가 발전을 면밀히 모니터링해야 할 필요가 있으며, 지속적인 손실은 더 깊은 문제를 신호할 수 있습니다.
-- Taylor Wimpey와 Vistry Group과 같은 개별 주식의 성과는 건설 산업 내에서의 중대한 도전을 나타냅니다.
-- 전반적으로 영국 주식 시장은 특정 섹터의 압박에 직면해 있으며, 이는 투자자에게 지속적인 영향을 미칠 수 있습니다.
+- Investing.com 영국 100 지수는 하락 마감했으며, 특정 섹터와 개별 주식에서 52주 최저치에 도달했습니다.
+- 런던 증권 거래소에서 하락하는 주식이 상승하는 주식을 초과하여 시장의 약세 심리를 나타냅니다.
+- 시장 참여자들은 영향을 받은 섹터와 개별 주식에서 회복 신호를 주목할 것입니다.
+- 주요 섹터의 하락은 향후 투자자 신뢰에 영향을 미칠 수 있는 경제적 우려를 시사합니다.
+- 전반적으로 영국 주식 시장은 다양한 섹터에서 상당한 손실을 겪으며 어려운 하루를 보냈고, 이는 광범위한 경제적 불확실성을 반영합니다.
 
 ## U.K. Stocks Close Lower Amid Sector Losses
 
@@ -34,17 +34,19 @@ tags:
 
 
 - The article discusses the performance of U.K. stocks following market close, highlighting sector-specific losses and individual stock performances.
-- The Investing.com United Kingdom 100 index closed down, with notable declines in construction-related stocks reaching 52-week lows.
-- The decline in stocks reflects broader market concerns, particularly in the construction sector, which may affect investor sentiment moving forward.
-- Investors may need to monitor the construction sector closely for further developments, as ongoing losses could signal deeper issues.
-- The performance of individual stocks, such as Taylor Wimpey and Vistry Group, indicates significant challenges within the construction industry.
-- Overall, the U.K. stock market is facing pressures from specific sectors, which could have lasting implications for investors.
+- The Investing.com United Kingdom 100 index closed down, with notable declines in certain sectors and individual stocks reaching 52-week lows.
+- Falling stocks outnumbered advancing ones on the London Stock Exchange, indicating a bearish market sentiment.
+- Market participants will be watching for potential recovery signs in the affected sectors and individual stocks.
+- The decline in key sectors suggests underlying economic concerns that may affect investor confidence moving forward.
+- Overall, the U.K. stock market faced a challenging day with significant losses in various sectors, reflecting broader economic uncertainties.
 
 ## Keywords
 
-- Construction Sector: Refers to the industry involved in the construction of buildings and infrastructure.
-- 52-week low: The lowest price at which a stock has traded in the last year.
-- Investor Sentiment: The overall attitude of investors toward a particular security or financial market.
+- Construction & Materials: Sector involving companies that produce building materials and construction services.
+- Household Goods: Products used in homes, including furniture and appliances.
+- Fixed Line Telecommunications: Telecommunication services provided through fixed lines, such as landline phones.
+- 52-week lows: The lowest price at which a stock has traded in the last year.
+- Bearish market sentiment: A market condition where investors expect prices to fall.
 
 ## 참고사항
 
