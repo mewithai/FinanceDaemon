@@ -77,7 +77,7 @@ tags:
 
 ---
 ## Today's YouTube
-###https://youtu.be/Cpy-__ah88c
+### https://youtu.be/Cpy-__ah88c
 1. 배경  
 - AI 모델의 파라미터 저장 방식과 메모리 요구량이 증가하고 있음.  
 - 기존 트랜스포머 구조는 여러 레이어를 통해 단어를 생성하며, 각 레이어마다 메모리와 GPU 간 통신이 필요함.  
@@ -97,7 +97,7 @@ tags:
 
 ---
 
-###https://youtu.be/jWeJvHNHkqE
+### https://youtu.be/jWeJvHNHkqE
 1. 배경  
 비트코인이 주요 자산으로 자리 잡고 있지만, 알트코인에 대한 관심이 증가하고 있다. 특히 디파이, AI, 레이어 1과 같은 특정 섹터에서 펀더멘탈이 확인되고 있다.
 
@@ -112,7 +112,7 @@ tags:
 
 ---
 
-###https://youtu.be/pvpJWJ0Y1Ic
+### https://youtu.be/pvpJWJ0Y1Ic
 1. 배경  
 - 관세가 시장에 미치는 영향에 대한 논의가 진행 중.  
 - 과거 2018년 중반부터 2년간의 관세 전쟁 경험이 참고됨.  
@@ -130,7 +130,7 @@ tags:
 
 ---
 
-###https://youtu.be/vdP4_X3OB3I
+### https://youtu.be/vdP4_X3OB3I
 1. 배경  
 - AI 모델의 파라미터 저장 방식과 메모리 요구량이 증가하고 있음.  
 - 기존 트랜스포머 구조는 여러 GPU와 HBM(고대역폭 메모리)을 필요로 하며, 통신 오버헤드가 문제로 지적됨.  
