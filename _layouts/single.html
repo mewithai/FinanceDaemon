@@ -29,9 +29,16 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+           {#
+           <!--
+           [자동 제목 렌더링 주석처리]
+           아래 코드는 마크다운 본문에서만 제목을 사용하고 싶을 때 주석처리함.
+           필요시 이 부분을 해제하면 {{ page.title }}가 자동으로 렌더링됩니다.
+           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
             <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>{% endif %}
+           -->
+           #}
           {% include page__meta.html %}
         </header>
       {% endunless %}
